@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="game">
+	<typeAlias alias="GameVO" type="model.GameVO"/>
+
+	<select id="selectGame" parameterClass="GameVO"  resultClass="GameVO">
+	SELECT	 	GAME_DATE, HOMETEAMNAME, AWAYTEAMNAME, HOMETEAMSCORE, AWAYTEAMSCORE, STADIUM
+	FROM		SOFI_GAME
+	WHERE		GAME_DATE between to_date(#game_date#,'YYYY-MM-DD') AND to_date(#game_date#,'YYYY-MM-DD')+60
+	AND			(HOMETEAMNAME = #homeTeamName# OR AWAYTEAMNAME=#homeTeamName#)
+ 	</select>
+</sqlMap>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE sqlMapConfig      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map Config 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-config-2.dtd">
+
+<sqlMapConfig>
+<settings useStatementNamespaces="true" cacheModelsEnabled="true"/>
+  <transactionManager type="JDBC" commitRequired="false">
+    <dataSource type="SIMPLE">
+      <property name="JDBC.Driver" value="net.sf.log4jdbc.DriverSpy"/>
+      <property name="JDBC.ConnectionURL" value="jdbc:oracle:thin:@localhost:1521:xe"/>          
+      <property name="JDBC.Username" value="n1"/>
+      <property name="JDBC.Password" value="n1"/>
+    </dataSource>
+  </transactionManager>
+  <sqlMap resource="ibatis/game-mapping.xml"/>
+  <sqlMap resource="ibatis/team-mapping.xml"/>
+  <sqlMap resource="ibatis/player-mapping.xml"/>
+</sqlMapConfig>

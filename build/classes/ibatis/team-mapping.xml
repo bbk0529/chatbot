@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE sqlMap      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="team">
+	<typeAlias alias="TeamVO" type="model.TeamVO"/>
+
+	<select id="selectTeam" parameterClass="String"  resultClass="TeamVO">
+	SELECT TEAM_NAME, LASTRESULT, TEAMRANKINGGROUP, TEAMCODE, GAINGOAL, GAMECOUNT, GAINPOINT, FOUL, LOST, WON, RANK, DRAWN, MANAGER, TEAM_NAME_KR
+	FROM sofi_team
+	WHERE TEAM_NAME = #team_name#
+ 	</select>
+</sqlMap>
