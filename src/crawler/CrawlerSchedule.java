@@ -25,9 +25,9 @@ public class CrawlerSchedule {
 		rawData = rawData.substring(0, rawData.length()-1);
 		rawData = rawData.replace("monthlyScheduleModel","\"monthlyScheduleModel\"");
 		rawData = "{"+ rawData + "}";
-		System.out.println("========= rawData got from Crawling in CrawlerSchedule.class ============== : ");
+		System.out.println("CrawlerSchedule / sofi_WebReader / Start ");
 		System.out.println(rawData);
-		System.out.println("========= rawData got from Crawling in CrawlerSchedule.class ============== : ");
+		System.out.println("CrawlerSchedule / sofi_WebReader / End ");
 		return rawData.trim();
 	}
 

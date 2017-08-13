@@ -19,12 +19,9 @@ public class PlayerData {
 	JSONArray playerSet = new JSONArray();
 	String filePath = this.getClass().getResource("").getPath();
 	
-	// Picture 
 	// http:\platform static files.s3.amazonaws.com\premierleague\photos\players\40x40\Pxxxxxxxx.png
-	//
 	
 	private static Map<String, Integer> map = new HashMap <>();
-	
 	
 	public static void main(String[] args) throws IOException {
 		PlayerData jsp = new PlayerData();

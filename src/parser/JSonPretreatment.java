@@ -13,6 +13,8 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
+
+// text 파일 만드는 Crawling 기계역할
 public class JSonPretreatment {
 	JSONObject jObject = new JSONObject();
 	JSONParser jsonParser = new JSONParser();

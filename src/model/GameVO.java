@@ -10,7 +10,7 @@ public class GameVO {
 	private String awayTeamName;
 	private String homeTeamScore;
 	private String awayTeamScore;
-	private Date gameStartTime;
+	private String gameStartTime;
 	private String stadium;
 	
 	
@@ -70,11 +70,11 @@ public class GameVO {
 	public void setAwayTeamScore(String awayTeamScore) {
 		this.awayTeamScore = awayTeamScore;
 	}
-	public Date getGameStartTime() {
+	public String getGameStartTime() {
 		return gameStartTime;
 	}
-	public void setGameStartTime(Date gameStartTime) {
-		this.gameStartTime = gameStartTime;
+	public void setGameStartTime(String string) {
+		this.gameStartTime = string;
 	}
 	public String getStadium() {
 		return stadium;

@@ -1,0 +1,11 @@
+/answer/
+/chatbot_data.erm
+/controllers/
+/crawler/
+/database.properties
+/driver/
+/ibatis/
+/log4j.properties
+/model/
+/parser/
+/test/

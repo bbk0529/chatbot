@@ -21,7 +21,7 @@ public class Driver_team {
 
 		Sofi_JSONParser_Team parser = new Sofi_JSONParser_Team();
 		List<TeamVO> list = parser.do_parsing(rawData);
-		
+		/*
 		StringBuffer sql = new StringBuffer();
 //		sql.append(" INSERT INTO tb_team");
 //		sql.append(" VALUES (?,?,?,?,?,?,?,?,?,?,?,?)");
@@ -66,6 +66,6 @@ public class Driver_team {
 	private static void dbClose(ResultSet rs, PreparedStatement ps, Connection cn) {
 		if (rs != null) try{rs.close();} catch(Exception e){}
 		if (ps != null) try{ps.close();} catch(Exception e){}
-		if (cn != null) try{cn.close();} catch(Exception e){}
+		if (cn != null) try{cn.close();} catch(Exception e){}*/
 	}
 }

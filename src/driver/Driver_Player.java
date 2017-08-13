@@ -10,10 +10,10 @@ import crawler.CrawlerPlayer;
 
 public class Driver_Player {
 	
-	public Map <String, String> playerDetail(JSONObject player) {
+	public Map <String, String> playerDetail(String id) {
 		
 		String rawData = null;
-		String url = "https://www.premierleague.com/players/" + player.get("id") + "/player/stats";
+		String url = "https://www.premierleague.com/players/" + id + "/player/stats";
 		Map <String, String> map = new HashMap<>();
 		CrawlerPlayer crawler = new CrawlerPlayer();
 		

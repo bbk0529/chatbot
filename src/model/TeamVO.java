@@ -100,7 +100,7 @@ public class TeamVO {
     }
     @Override
     public String toString() {
-        return team_name + team_name_kr + "의 최근 경기 결과는 " + lastResult + "입니다.<br/>" +
+        return team_name + team_name_kr + "최근 경기 결과는 " + lastResult + "입니다.<br/>" +
                 "teamRankingGroup=" + teamRankingGroup + ", teamCode=" + teamCode + ", gainGoal=" + gainGoal
                 + "현재까지의 게임 숫자 " + gameCount + ", 승점은 " + gainPoint + ", 파울은" + foul + ", 패배는" + lost
                 + ", 승점=" + won + ", 순위=" + rank + ", 비긴숫자 : " + drawn + ", 메니져는 " + manager + "입니다."; 

@@ -9,12 +9,12 @@ public class IntentParser {
 	String intent_detail = null;
 	String intent_fixture = null;
 	String target = null;
-		
-	public void tokenParser(String returnedMessage){
+	
+	//Watson과 통신하는 부분 
+	/*public void tokenParser(String returnedMessage){
 		
 		returnedMessage=returnedMessage.replace("[", "");
 		returnedMessage=returnedMessage.replace("]", "");
-		// [intent_player|profile|Son Heung-Min]
 		StringTokenizer st = new StringTokenizer(returnedMessage, "|");  
 		intent = st.nextToken();
 	  	intent_detail = st.nextToken();
@@ -22,19 +22,18 @@ public class IntentParser {
 	  	System.out.println("TOKENED INTENT :" + intent);
 	  	System.out.println("TOKENED INTENT_DETAIL : "+ intent_detail);
 	  	System.out.println("TOKENED PLAYER_NAME : "+ target); 
-	}
+	}*/
 	
-	public String crawlerParser(String msg) {
+	public String[]  crawlerParser(String msg) {
 		System.out.println(msg.indexOf("년"));
 		System.out.println(msg.indexOf("월"));
 		int guide_year = msg.indexOf("년");
 		int guide_month = msg.indexOf("월");
 		
-		String year = msg.substring(guide_year-4,guide_year);
-		String month = msg.substring(guide_month-2, guide_month);
-		System.out.println(msg);
-		System.out.println(year + " " + month);
-		return year+month;
+		String year = msg.substring(guide_year-4,guide_year).trim();
+		String month = msg.substring(guide_year+1, guide_month).trim();
+		String [] yearmonth = {year,month};
+		return yearmonth;
 		//return null;
 	}
 	

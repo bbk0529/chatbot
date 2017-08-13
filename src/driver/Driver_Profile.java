@@ -11,11 +11,11 @@ import crawler.CrawlerProfile;
 
 public class Driver_Profile {
 	
-	public Map <String, String> profileDetail(JSONObject player) {
+	public Map <String, String> profileDetail(String [] player) {
 		
 		String rawData = null;
-		String url = "https://www.premierleague.com/players/" + player.get("id") + "/overview";
-		
+		String url = "https://www.premierleague.com/players/" + player[0] + "/" + player[1].replace(" ","-") + "/overview";
+		System.out.println(url);
 		Map <String, String> map = new HashMap<>();
 		CrawlerProfile crawlerProfile = new CrawlerProfile();
 		

@@ -37,16 +37,13 @@ public class Sofi_JSONParser_Schedule {
 					GameVO gameVO = new GameVO();
 					JSONObject detail = (JSONObject) schDetail.get(i);
 					gameVO.setGame_date(date);
+					gameVO.setGameStartTime((String)detail.get("gameStartTime"));
 					gameVO.setHomeTeamName((String)detail.get("homeTeamName"));
 					gameVO.setAwayTeamName((String)detail.get("awayTeamName"));
 					gameVO.setHomeTeamScore((String)detail.get("homeTeamScore"));
 					gameVO.setAwayTeamScore((String)detail.get("awayTeamScore"));
 					gameVO.setStadium((String)detail.get("stadium"));
 					list.add(gameVO);
-					System.out.println("=====================");
-					System.out.println("횟수 " + k);
-					System.out.println(gameVO);
-					System.out.println("=====================");
 				}
 			}
 		}

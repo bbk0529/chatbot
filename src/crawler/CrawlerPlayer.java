@@ -28,7 +28,7 @@ public class CrawlerPlayer {
 				if (current_Line.contains(divider1)) { 
 			 		int start = current_Line.indexOf(divider1) + divider1.length();
 			 		int last = current_Line.lastIndexOf("<span class=");
-			 		if (start<last) {
+			 		if (start<last && (last-start)<15) {
 			 			String key = current_Line.substring(start, last).trim();
 			 			String value = bf.readLine().trim();
 			 			System.out.println(key + " : " + value);
