@@ -4,7 +4,7 @@ import java.sql.SQLException;
 import java.util.StringTokenizer;
 
 public class IntentParser {
-
+	
 	String intent = null;
 	String intent_detail = null;
 	String intent_fixture = null;

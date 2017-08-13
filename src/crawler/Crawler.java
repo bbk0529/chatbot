@@ -14,7 +14,8 @@ public class Crawler {
 			URL url = new URL(urlstr);		
 			BufferedReader bf = new BufferedReader(new InputStreamReader(url.openStream()));
 			while((current_Line=bf.readLine())!=null){
-			   	  if (current_Line.contains("jsonTeamRecord")) { 
+			   	System.out.println(current_Line);  
+				if (current_Line.contains("jsonTeamRecord")) { 
 			 		 rawData=current_Line.trim();			    		  
 			  	  } // if
 		    } // while

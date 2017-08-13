@@ -1,0 +1,7560 @@
+href="//www.premierleague.com/players/10483/Rolando-Aarons/overview"
+"p155513"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p155513.png">Rolando
+Aarons
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13286/Tammy-Abraham/overview"
+"p173879"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p173879.png">Tammy
+Abraham
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4081/Charlie-Adam/overview"
+"p20208"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20208.png">Charlie
+Adam
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/4852/Adrián/overview"
+"p60706"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p60706.png">Adrián
+Goalkeeper
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4968/Ibrahim-Afellay/overview"
+"p19568"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19568.png">Ibrahim
+Afellay
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/4040/Benik-Afobe/overview"
+"p88498"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p88498.png">Benik
+Afobe
+POSITION:Forward
+ class="flag CG"> 
+Congo
+
+
+
+href="//www.premierleague.com/players/4328/Sergio-Agüero/overview"
+"p37572"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37572.png">Sergio
+Agüero
+POSITION:Forward
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/10559/Daniel-Agyei/overview"
+"p207725"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p207725.png">Daniel
+Agyei
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/24695/Soufyan-Ahannach/overview"
+"p134293"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p134293.png">Soufyan
+Ahannach
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/6609/Ahmed-Hegazi/overview"
+"p77777"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p77777.png">Ahmed
+Hegazi
+POSITION:Defender
+ class="flag EG"> 
+Egypt
+
+
+
+href="//www.premierleague.com/players/4499/Nathan-Aké/overview"
+"p126184"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p126184.png">Nathan
+Aké
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/4482/Chuba-Akpom/overview"
+"p147675"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p147675.png">Chuba
+Akpom
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3564/Marc-Albrighton/overview"
+"p51938"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p51938.png">Marc
+Albrighton
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4916/Toby-Alderweireld/overview"
+"p55605"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p55605.png">Toby
+Alderweireld
+POSITION:Defender
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/12946/Aleix-García/overview"
+"p178871"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p178871.png">Aleix
+García
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/14732/Trent-Alexander-Arnold/overview"
+"p169187"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p169187.png">Trent
+Alexander-Arnold
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13984/Allan/overview"
+"p214275"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p214275.png">Allan
+POSITION:Midfielder
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/4413/Joe-Allen/overview"
+"p40555"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40555.png">Joe
+Allen
+POSITION:Midfielder
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/3732/Ryan-Allsop/overview"
+"p61302"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61302.png">Ryan
+Allsop
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4093/Marcos-Alonso/overview"
+"p82263"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p82263.png">Marcos
+Alonso
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/12306/Daniel-Amartey/overview"
+"p155569"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p155569.png">Daniel
+Amartey
+POSITION:Midfielder
+ class="flag GH"> 
+Ghana
+
+
+
+href="//www.premierleague.com/players/4835/Jordi-Amat/overview"
+"p80789"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p80789.png">Jordi
+Amat
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4176/Sammy-Ameobi/overview"
+"p97612"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p97612.png">Sammy
+Ameobi
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/15128/Luke-Amos/overview"
+"p168764"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168764.png">Luke
+Amos
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8234/Tom-Anderson/overview"
+"p124125"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p124125.png">Tom
+Anderson
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5594/André-Ayew/overview"
+"p45124"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p45124.png">André
+Ayew
+POSITION:Forward
+ class="flag GH"> 
+Ghana
+
+
+
+href="//www.premierleague.com/players/4550/Vurnon-Anita/overview"
+"p40799"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40799.png">Vurnon
+Anita
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/9595/Michail-Antonio/overview"
+"p57531"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57531.png">Michail
+Antonio
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/19681/Antonio-Martínez/overview"
+"p178867"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p178867.png">Antonio
+Martínez
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/3285/Antonio-Valencia/overview"
+"p20695"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20695.png">Antonio
+Valencia
+POSITION:Defender
+ class="flag EC"> 
+Ecuador
+
+
+
+href="//www.premierleague.com/players/8242/Scott-Arfield/overview"
+"p39158"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p39158.png">Scott
+Arfield
+POSITION:Midfielder
+ class="flag CA"> 
+Canada
+
+
+
+href="//www.premierleague.com/players/7175/Giedrius-Arlauskis/overview"
+"p57187"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57187.png">Giedrius
+Arlauskis
+Goalkeeper
+ class="flag LT"> 
+Lithuania
+
+
+
+href="//www.premierleague.com/players/4823/Marko-Arnautovic/overview"
+"p41464"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41464.png">Marko
+Arnautovic
+POSITION:Forward
+ class="flag AT"> 
+Austria
+
+
+
+href="//www.premierleague.com/players/8050/Harry-Arter/overview"
+"p48615"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p48615.png">Harry
+Arter
+POSITION:Midfielder
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/4859/Christian-Atsu/overview"
+"p104953"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p104953.png">Christian
+Atsu
+POSITION:Midfielder
+ class="flag GH"> 
+Ghana
+
+
+
+href="//www.premierleague.com/players/9468/Charlie-Austin/overview"
+"p78356"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p78356.png">Charlie
+Austin
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10487/Ayoze-Pérez/overview"
+"p168580"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168580.png">Ayoze
+Pérez
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4496/César-Azpilicueta/overview"
+"p41328"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41328.png">César
+Azpilicueta
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/9762/Daniel-Bachmann/overview"
+"p154506"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p154506.png">Daniel
+Bachmann
+Goalkeeper
+ class="flag AT"> 
+Austria
+
+
+
+href="//www.premierleague.com/players/12937/Eric-Bailly/overview"
+"p197365"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p197365.png">Eric
+Bailly
+POSITION:Defender
+ class="flag CI"> 
+Cote D'Ivoire
+
+
+
+href="//www.premierleague.com/players/3030/Leighton-Baines/overview"
+"p12745"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p12745.png">Leighton
+Baines
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/11260/Tiemoué-Bakayoko/overview"
+"p169102"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p169102.png">Tiemoué
+Bakayoko
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/4749/Lewis-Baker/overview"
+"p126186"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Lewis Baker
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4711/Sam-Baldock/overview"
+"p28462"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p28462.png">Sam
+Baldock
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/15030/Lewis-Banks/overview"
+"p174934"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Lewis Banks
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2517/Phil-Bardsley/overview"
+"p17997"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p17997.png">Phil
+Bardsley
+POSITION:Defender
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/4115/Ross-Barkley/overview"
+"p88894"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p88894.png">Ross
+Barkley
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13590/Daniel-Barlaser/overview"
+"p171427"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Daniel Barlaser
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8246/Ashley-Barnes/overview"
+"p44699"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p44699.png">Ashley
+Barnes
+POSITION:Forward
+ class="flag AT"> 
+Austria
+
+
+
+href="//www.premierleague.com/players/10520/Modou-Barrow/overview"
+"p111787"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p111787.png">Modou
+Barrow
+POSITION:Forward
+ class="flag GM"> 
+Gambia
+
+
+
+href="//www.premierleague.com/players/1308/Gareth-Barry/overview"
+"p1632"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p1632.png">Gareth
+Barry
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3312/Kyle-Bartley/overview"
+"p59940"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59940.png">Kyle
+Bartley
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/7450/Michy-Batshuayi/overview"
+"p94245"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p94245.png">Michy
+Batshuayi
+POSITION:Forward
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/19589/Jan-Bednarek/overview"
+"p171771"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p171771.png">Jan
+Bednarek
+POSITION:Defender
+ class="flag PL"> 
+Poland
+
+
+
+href="//www.premierleague.com/players/2537/Asmir-Begovic/overview"
+"p40349"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40349.png">Asmir
+Begovic
+Goalkeeper
+ class="flag BA"> 
+Bosnia And Herzegovina
+
+
+
+href="//www.premierleague.com/players/3765/Valon-Behrami/overview"
+"p21123"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p21123.png">Valon
+Behrami
+POSITION:Midfielder
+ class="flag CH"> 
+Switzerland
+
+
+
+href="//www.premierleague.com/players/4474/Héctor-Bellerín/overview"
+"p98745"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p98745.png">Héctor
+Bellerín
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/20879/Yasin-Ben-El-Mhanni/overview"
+"p240852"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Yasin Ben El-Mhanni
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13490/Yohan-Benalouane/overview"
+"p41321"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41321.png">Yohan
+Benalouane
+POSITION:Defender
+ class="flag TN"> 
+Tunisia
+
+
+
+href="//www.premierleague.com/players/4492/Christian-Benteke/overview"
+"p54861"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p54861.png">Christian
+Benteke
+POSITION:Forward
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4205/Saido-Berahino/overview"
+"p91972"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p91972.png">Saido
+Berahino
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/6210/Johann-Berg-Gudmundsson/overview"
+"p60586"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p60586.png">Johann
+Berg Gudmundsson
+POSITION:Midfielder
+ class="flag IS"> 
+Iceland
+
+
+
+href="//www.premierleague.com/players/6215/Steven-Berghuis/overview"
+"p88935"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p88935.png">Steven
+Berghuis
+POSITION:Forward
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/5067/Bernardo-Silva/overview"
+"p165809"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p165809.png">Bernardo
+Silva
+POSITION:Midfielder
+ class="flag PT"> 
+Portugal
+
+
+
+href="//www.premierleague.com/players/2886/Ryan-Bertrand/overview"
+"p40146"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40146.png">Ryan
+Bertrand
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10451/Muhamed-Besic/overview"
+"p87447"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p87447.png">Muhamed
+Besic
+POSITION:Midfielder
+ class="flag BA"> 
+Bosnia And Herzegovina
+
+
+
+href="//www.premierleague.com/players/10426/Krystian-Bielik/overview"
+"p195482"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p195482.png">Krystian
+Bielik
+POSITION:Midfielder
+ class="flag PL"> 
+Poland
+
+
+
+href="//www.premierleague.com/players/8882/Philip-Billing/overview"
+"p168991"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168991.png">Philip
+Billing
+POSITION:Midfielder
+ class="flag DK"> 
+Denmark
+
+
+
+href="//www.premierleague.com/players/19655/Mark-Birighitti/overview"
+"p102907"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p102907.png">Mark
+Birighitti
+Goalkeeper
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/13231/Henrik-Rorvik-Bjørdal/overview"
+"p161019"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Henrik Rorvik Bjørdal
+POSITION:Midfielder
+ class="flag NO"> 
+Norway
+
+
+
+href="//www.premierleague.com/players/4888/Daley-Blind/overview"
+"p58877"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p58877.png">Daley
+Blind
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/4769/Hiram-Boateng/overview"
+"p130103"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p130103.png">Hiram
+Boateng
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10441/Jeremie-Boga/overview"
+"p135365"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Jeremie Boga
+POSITION:Midfielder
+ class="flag CI"> 
+Cote D'Ivoire
+
+
+
+href="//www.premierleague.com/players/3348/Adam-Bogdan/overview"
+"p45175"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p45175.png">Adam
+Bogdan
+Goalkeeper
+ class="flag HU"> 
+Hungary
+
+
+ href="//www.premierleague.com/players/4898/Bojan/overview"
+"p40276"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40276.png">Bojan
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4763/Yannick-Bolasie/overview"
+"p55452"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p55452.png">Yannick
+Bolasie
+POSITION:Forward
+ class="flag CG"> 
+Congo
+
+
+
+href="//www.premierleague.com/players/5721/Gaëtan-Bong/overview"
+"p42748"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p42748.png">Gaëtan
+Bong
+POSITION:Defender
+ class="flag CM"> 
+Cameroon
+
+
+
+href="//www.premierleague.com/players/4838/Wilfried-Bony/overview"
+"p57001"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57001.png">Wilfried
+Bony
+POSITION:Forward
+ class="flag CI"> 
+Cote D'Ivoire
+
+
+
+href="//www.premierleague.com/players/13475/Regan-Booty/overview"
+"p181294"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Regan Booty
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/16622/Borja-Bastón/overview"
+"p83091"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p83091.png">Borja
+Bastón
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/13560/Cameron-Borthwick-Jackson/overview"
+"p171273"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Cameron Borthwick-Jackson
+POSITION:Defender
+ 
+
+
+
+href="//www.premierleague.com/players/4601/Artur-Boruc/overview"
+"p18726"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p18726.png">Artur
+Boruc
+Goalkeeper
+ class="flag PL"> 
+Poland
+
+
+
+href="//www.premierleague.com/players/12584/Sofiane-Boufal/overview"
+"p128198"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p128198.png">Sofiane
+Boufal
+POSITION:Midfielder
+ class="flag MA"> 
+Morocco
+
+
+
+href="//www.premierleague.com/players/4788/George-Boyd/overview"
+"p28244"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p28244.png">George
+Boyd
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/9030/Brad-Smith/overview"
+"p120447"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p120447.png">Brad
+Smith
+POSITION:Defender
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/4158/Robbie-Brady/overview"
+"p90517"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p90517.png">Robbie
+Brady
+POSITION:Midfielder
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/21627/Cohen-Bramall/overview"
+"p245791"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Cohen Bramall
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/9032/Cameron-Brannagan/overview"
+"p147668"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p147668.png">Cameron
+Brannagan
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5810/Claudio-Bravo/overview"
+"p33148"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p33148.png">Claudio
+Bravo
+Goalkeeper
+ class="flag CL"> 
+Chile
+
+
+
+href="//www.premierleague.com/players/14742/Rhian-Brewster/overview"
+"p195473"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Rhian Brewster
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5668/Miguel-Britos/overview"
+"p52153"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p52153.png">Miguel
+Britos
+POSITION:Defender
+ class="flag UY"> 
+Uruguay
+
+
+
+href="//www.premierleague.com/players/2152/Leon-Britton/overview"
+"p15114"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p15114.png">Leon
+Britton
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4674/Isaiah-Brown/overview"
+"p112516"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Isaiah Brown
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13873/Marcus-Browne/overview"
+"p195859"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p195859.png">Marcus
+Browne
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+ href="//www.premierleague.com/players/8162/Bruno/overview"
+"p11352"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p11352.png">Bruno
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/3744/Chris-Brunt/overview"
+"p19151"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19151.png">Chris
+Brunt
+POSITION:Midfielder
+ class="flag GB-NIR"> 
+Northern Ireland
+
+
+
+href="//www.premierleague.com/players/23695/Marcin-Bulka/overview"
+"p231399"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Marcin Bulka
+Goalkeeper
+ class="flag PL"> 
+Poland
+
+
+
+href="//www.premierleague.com/players/8892/Harry-Bunn/overview"
+"p104535"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p104535.png">Harry
+Bunn
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/9982/Reece-Burke/overview"
+"p156658"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p156658.png">Reece
+Burke
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/11965/Matt-Butcher/overview"
+"p200370"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p200370.png">Matt
+Butcher
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4634/Jack-Butland/overview"
+"p105666"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p105666.png">Jack
+Butland
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8945/Sam-Byram/overview"
+"p113564"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p113564.png">Sam
+Byram
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10466/Willy-Caballero/overview"
+"p20310"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20310.png">Willy
+Caballero
+Goalkeeper
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/4341/Yohan-Cabaye/overview"
+"p27341"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p27341.png">Yohan
+Cabaye
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/14547/Tom-Cadman/overview"
+"p208825"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Tom Cadman
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/2620/Gary-Cahill/overview"
+"p19419"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19419.png">Gary
+Cahill
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/9576/Dominic-Calvert-Lewin/overview"
+"p177815"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p177815.png">Dominic
+Calvert-Lewin
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4636/Geoff-Cameron/overview"
+"p50089"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p50089.png">Geoff
+Cameron
+POSITION:Defender
+ class="flag US"> 
+United States
+
+
+
+href="//www.premierleague.com/players/4254/Joel-Campbell/overview"
+"p99127"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p99127.png">Joel
+Campbell
+POSITION:Forward
+ class="flag CR"> 
+Costa Rica
+
+
+
+href="//www.premierleague.com/players/5001/Emre-Can/overview"
+"p112338"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p112338.png">Emre
+Can
+POSITION:Midfielder
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/4843/Etienne-Capoue/overview"
+"p38439"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p38439.png">Etienne
+Capoue
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/9869/Baily-Cargill/overview"
+"p167789"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p167789.png">Baily
+Cargill
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/1634/Michael-Carrick/overview"
+"p2404"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p2404.png">Michael
+Carrick
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4430/Tom-Carroll/overview"
+"p93464"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p93464.png">Tom
+Carroll
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13814/Cameron-Carter-Vickers/overview"
+"p168763"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168763.png">Cameron
+Carter-Vickers
+POSITION:Defender
+ class="flag US"> 
+United States
+
+
+
+href="//www.premierleague.com/players/3160/Craig-Cathcart/overview"
+"p41338"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41338.png">Craig
+Cathcart
+POSITION:Defender
+ class="flag GB-NIR"> 
+Northern Ireland
+
+
+
+href="//www.premierleague.com/players/4477/Santiago-Cazorla/overview"
+"p19524"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19524.png">Santiago
+Cazorla
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/2651/Petr-Cech/overview"
+"p11334"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p11334.png">Petr
+Cech
+Goalkeeper
+ class="flag CZ"> 
+Czech Republic
+
+
+
+href="//www.premierleague.com/players/11347/Cédric-Soares/overview"
+"p58822"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p58822.png">Cédric
+Soares
+POSITION:Defender
+ class="flag PT"> 
+Portugal
+
+
+
+href="//www.premierleague.com/players/4844/Nacer-Chadli/overview"
+"p54908"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p54908.png">Nacer
+Chadli
+POSITION:Midfielder
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4105/Nathaniel-Chalobah/overview"
+"p89085"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p89085.png">Nathaniel
+Chalobah
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4620/Calum-Chambers/overview"
+"p101184"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p101184.png">Calum
+Chambers
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4161/Chicharito/overview"
+"p43020"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p43020.png">Chicharito
+POSITION:Forward
+ class="flag MX"> 
+Mexico
+
+
+
+href="//www.premierleague.com/players/13491/Ben-Chilwell/overview"
+"p172850"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p172850.png">Ben
+Chilwell
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13510/Pedro-Chirivella/overview"
+"p174254"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p174254.png">Pedro
+Chirivella
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/11191/Eric-Maxim-Choupo-Moting/overview"
+"p42564"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p42564.png">Eric
+Maxim Choupo-Moting
+POSITION:Midfielder
+ class="flag CM"> 
+Cameroon
+
+
+
+href="//www.premierleague.com/players/4495/Andreas-Christensen/overview"
+"p135363"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p135363.png">Andreas
+Christensen
+POSITION:Defender
+ class="flag DK"> 
+Denmark
+
+
+
+href="//www.premierleague.com/players/3562/Ciaran-Clark/overview"
+"p58845"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p58845.png">Ciaran
+Clark
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/11146/Jake-Clarke-Salter/overview"
+"p180732"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p180732.png">Jake
+Clarke-Salter
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/12365/Jordy-Clasie/overview"
+"p85654"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p85654.png">Jordy
+Clasie
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/3448/Tom-Cleverley/overview"
+"p43250"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p43250.png">Tom
+Cleverley
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4604/Nathaniel-Clyne/overview"
+"p57328"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57328.png">Nathaniel
+Clyne
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10268/Luke-Coddington/overview"
+"p132198"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p132198.png">Luke
+Coddington
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3713/Jack-Colback/overview"
+"p58771"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p58771.png">Jack
+Colback
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3600/Seamus-Coleman/overview"
+"p59949"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59949.png">Seamus
+Coleman
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/3010/James-Collins/overview"
+"p8380"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p8380.png">James
+Collins
+POSITION:Defender
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/3549/Francis-Coquelin/overview"
+"p56864"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p56864.png">Francis
+Coquelin
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/2889/Jack-Cork/overview"
+"p40145"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40145.png">Jack
+Cork
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4911/Thibaut-Courtois/overview"
+"p60772"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p60772.png">Thibaut
+Courtois
+Goalkeeper
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4525/Philippe-Coutinho/overview"
+"p84583"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p84583.png">Philippe
+Coutinho
+POSITION:Midfielder
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/2559/Martin-Cranie/overview"
+"p18006"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p18006.png">Martin
+Cranie
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8897/Aaron-Cresswell/overview"
+"p55459"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p55459.png">Aaron
+Cresswell
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/1629/Peter-Crouch/overview"
+"p3773"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p3773.png">Peter
+Crouch
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13716/Cuco-Martina/overview"
+"p56192"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p56192.png">Cuco
+Martina
+POSITION:Defender
+ class="flag CW"> 
+Curacao
+
+
+
+href="//www.premierleague.com/players/5174/Cristián-Cuevas/overview"
+"p138816"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p138816.png">Cristián
+Cuevas
+POSITION:Defender
+ class="flag CL"> 
+Chile
+
+
+
+href="//www.premierleague.com/players/3242/Charlie-Daniels/overview"
+"p41320"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41320.png">Charlie
+Daniels
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5328/Danilo/overview"
+"p100180"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p100180.png">Danilo
+POSITION:Defender
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/3807/Scott-Dann/overview"
+"p19188"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19188.png">Scott
+Dann
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8245/Danny-Ings/overview"
+"p84939"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p84939.png">Danny
+Ings
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8389/Tendayi-Darikwa/overview"
+"p85017"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p85017.png">Tendayi
+Darikwa
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/9251/Karl-Darlow/overview"
+"p59735"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59735.png">Karl
+Darlow
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/12854/Matteo-Darmian/overview"
+"p40002"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40002.png">Matteo
+Darmian
+POSITION:Defender
+ class="flag IT"> 
+Italy
+
+
+
+href="//www.premierleague.com/players/4100/David-Luiz/overview"
+"p41270"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41270.png">David
+Luiz
+POSITION:Defender
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/10526/Jason-Davidson/overview"
+"p80480"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Jason Davidson
+POSITION:Defender
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/13389/Tom-Davies/overview"
+"p173807"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p173807.png">Tom
+Davies
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2423/Steven-Davis/overview"
+"p17339"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p17339.png">Steven
+Davis
+POSITION:Midfielder
+ class="flag GB-NIR"> 
+Northern Ireland
+
+
+
+href="//www.premierleague.com/players/4198/Craig-Dawson/overview"
+"p60232"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p60232.png">Craig
+Dawson
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4288/Kevin-De-Bruyne/overview"
+"p61366"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61366.png">Kevin
+De Bruyne
+POSITION:Midfielder
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4330/David-de-Gea/overview"
+"p51940"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p51940.png">David
+de Gea
+Goalkeeper
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4885/Siem-de-Jong/overview"
+"p48773"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Siem de Jong
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/14834/Zachary-Dearnley/overview"
+"p179261"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Zachary Dearnley
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4546/Mathieu-Debuchy/overview"
+"p27334"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p27334.png">Mathieu
+Debuchy
+POSITION:Defender
+ 
+France
+
+
+
+href="//www.premierleague.com/players/9947/Troy-Deeney/overview"
+"p41725"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41725.png">Troy
+Deeney
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/1526/Jermain-Defoe/overview"
+"p7958"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p7958.png">Jermain
+Defoe
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5345/Steven-Defour/overview"
+"p39847"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p39847.png">Steven
+Defour
+POSITION:Midfielder
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/1911/Damien-Delaney/overview"
+"p7906"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p7906.png">Damien
+Delaney
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/9167/Dele-Alli/overview"
+"p108823"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p108823.png">Dele
+Alli
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3799/Fabian-Delph/overview"
+"p41823"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41823.png">Fabian
+Delph
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4123/Mousa-Dembélé/overview"
+"p39104"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p39104.png">Mousa
+Dembélé
+POSITION:Midfielder
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/11002/Jason-Denayer/overview"
+"p160729"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p160729.png">Jason
+Denayer
+POSITION:Defender
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/16747/Laurent-Depoitre/overview"
+"p147303"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p147303.png">Laurent
+Depoitre
+POSITION:Forward
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/3982/Mohamed-Diamé/overview"
+"p28147"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p28147.png">Mohamed
+Diamé
+POSITION:Midfielder
+ class="flag SN"> 
+Senegal
+
+
+
+href="//www.premierleague.com/players/15199/Grady-Diangana/overview"
+"p179830"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p179830.png">Grady
+Diangana
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14800/Brahim-Diaz/overview"
+"p216183"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p216183.png">Brahim
+Diaz
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4941/Diego-Costa/overview"
+"p18507"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p18507.png">Diego
+Costa
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4112/Eric-Dier/overview"
+"p93264"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p93264.png">Eric
+Dier
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3925/Mame-Biram-Diouf/overview"
+"p61858"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61858.png">Mame
+Biram Diouf
+POSITION:Forward
+ class="flag SN"> 
+Senegal
+
+
+
+href="//www.premierleague.com/players/5577/Brice-Dja-Djédjé/overview"
+"p86431"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p86431.png">Brice
+Dja Djédjé
+POSITION:Defender
+ class="flag CI"> 
+Cote D'Ivoire
+
+
+
+href="//www.premierleague.com/players/13823/Abdoulaye-Doucouré/overview"
+"p121599"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p121599.png">Abdoulaye
+Doucouré
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/13340/Luke-Dreher/overview"
+"p221275"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p221275.png">Luke
+Dreher
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3670/Daniel-Drinkwater/overview"
+"p61603"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61603.png">Daniel
+Drinkwater
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3601/Shane-Duffy/overview"
+"p61933"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61933.png">Shane
+Duffy
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/14771/Demeaco-Duhaney/overview"
+"p175351"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Demeaco Duhaney
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4340/Paul-Dummett/overview"
+"p106618"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p106618.png">Paul
+Dummett
+POSITION:Defender
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/8163/Lewis-Dunk/overview"
+"p83299"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p83299.png">Lewis
+Dunk
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2341/Nathan-Dyer/overview"
+"p21083"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p21083.png">Nathan
+Dyer
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14451/Eddie-Nketiah/overview"
+"p205533"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Eddie Nketiah
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/12707/Ederson/overview"
+"p121160"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p121160.png">Ederson
+Goalkeeper
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/12265/Eduardo/overview"
+"p41251"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41251.png">Eduardo
+Goalkeeper
+ class="flag PT"> 
+Portugal
+
+
+
+href="//www.premierleague.com/players/15038/Thomas-Edwards/overview"
+"p209212"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Thomas Edwards
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8962/Callum-Elder/overview"
+"p168222"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168222.png">Callum
+Elder
+POSITION:Defender
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/21468/Andrew-Eleftheriou/overview"
+"p243531"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Andrew Eleftheriou
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2214/Robert-Elliot/overview"
+"p19838"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19838.png">Robert
+Elliot
+Goalkeeper
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/5239/Mohamed-Elneny/overview"
+"p153256"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p153256.png">Mohamed
+Elneny
+POSITION:Midfielder
+ class="flag EG"> 
+Egypt
+
+
+
+href="//www.premierleague.com/players/4245/Emiliano-Martinez/overview"
+"p98980"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p98980.png">Emiliano
+Martinez
+Goalkeeper
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/10488/Emmanuel-Rivière/overview"
+"p51621"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Emmanuel Rivière
+POSITION:Forward
+ 
+France
+
+
+
+href="//www.premierleague.com/players/4845/Christian-Eriksen/overview"
+"p80607"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p80607.png">Christian
+Eriksen
+POSITION:Midfielder
+ class="flag DK"> 
+Denmark
+
+
+
+href="//www.premierleague.com/players/3156/Jonny-Evans/overview"
+"p37642"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37642.png">Jonny
+Evans
+POSITION:Defender
+ class="flag GB-NIR"> 
+Northern Ireland
+
+
+
+href="//www.premierleague.com/players/3309/Lukasz-Fabianski/overview"
+"p37096"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37096.png">Lukasz
+Fabianski
+Goalkeeper
+ class="flag PL"> 
+Poland
+
+
+
+href="//www.premierleague.com/players/2417/Cesc-Fàbregas/overview"
+"p17878"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p17878.png">Cesc
+Fàbregas
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/3182/Adam-Federici/overview"
+"p15885"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p15885.png">Adam
+Federici
+Goalkeeper
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/5672/Federico-Fernández/overview"
+"p57145"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57145.png">Federico
+Fernández
+POSITION:Defender
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/7564/Sofiane-Feghouli/overview"
+"p44336"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p44336.png">Sofiane
+Feghouli
+POSITION:Midfielder
+ class="flag DZ"> 
+Algeria
+
+
+
+href="//www.premierleague.com/players/3604/Marouane-Fellaini/overview"
+"p41184"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41184.png">Marouane
+Fellaini
+POSITION:Midfielder
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4810/Leroy-Fer/overview"
+"p49277"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49277.png">Leroy
+Fer
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/15759/Edimilson-Fernandes/overview"
+"p163526"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p163526.png">Edimilson
+Fernandes
+POSITION:Midfielder
+ class="flag CH"> 
+Switzerland
+
+
+
+href="//www.premierleague.com/players/4804/Fernandinho/overview"
+"p27789"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p27789.png">Fernandinho
+POSITION:Midfielder
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/5344/Fernando/overview"
+"p52538"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p52538.png">Fernando
+POSITION:Midfielder
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/13867/Sam-Field/overview"
+"p195864"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p195864.png">Sam
+Field
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5144/Stuart-Findlay/overview"
+"p107700"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Stuart Findlay
+POSITION:Defender
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/4129/Jon-Flanagan/overview"
+"p91979"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p91979.png">Jon
+Flanagan
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/1943/Darren-Fletcher/overview"
+"p14295"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p14295.png">Darren
+Fletcher
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/14805/Phil-Foden/overview"
+"p209244"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Phil Foden
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14298/Michael-Folivi/overview"
+"p204760"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Michael Folivi
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3170/Fraser-Forster/overview"
+"p40383"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40383.png">Fraser
+Forster
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2932/Ben-Foster/overview"
+"p9089"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p9089.png">Ben
+Foster
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13561/Timothy-Fosu-Mensah/overview"
+"p201084"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p201084.png">Timothy
+Fosu-Mensah
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/8044/Simon-Francis/overview"
+"p15149"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p15149.png">Simon
+Francis
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8052/Ryan-Fraser/overview"
+"p90105"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p90105.png">Ryan
+Fraser
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/8935/Freddie-Ladapo/overview"
+"p94926"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p94926.png">Freddie
+Ladapo
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5371/Christian-Fuchs/overview"
+"p37402"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37402.png">Christian
+Fuchs
+POSITION:Defender
+ class="flag AT"> 
+Austria
+
+
+
+href="//www.premierleague.com/players/7482/Jay-Fulton/overview"
+"p96305"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p96305.png">Jay
+Fulton
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/13387/Ramiro-Funes-Mori/overview"
+"p121221"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p121221.png">Ramiro
+Funes Mori
+POSITION:Defender
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/12639/Manolo-Gabbiadini/overview"
+"p61548"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61548.png">Manolo
+Gabbiadini
+POSITION:Forward
+ class="flag IT"> 
+Italy
+
+
+
+href="//www.premierleague.com/players/10423/Gabriel/overview"
+"p158074"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p158074.png">Gabriel
+POSITION:Defender
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/19680/Gabriel-Jesus/overview"
+"p205651"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p205651.png">Gabriel
+Jesus
+POSITION:Forward
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/9650/Sam-Gallagher/overview"
+"p153371"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p153371.png">Sam
+Gallagher
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5937/Florin-Gardos/overview"
+"p84395"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p84395.png">Florin
+Gardos
+POSITION:Defender
+ class="flag RO"> 
+Romania
+
+
+
+href="//www.premierleague.com/players/4771/Dwight-Gayle/overview"
+"p104547"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p104547.png">Dwight
+Gayle
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4600/Paulo-Gazzaniga/overview"
+"p102884"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p102884.png">Paulo
+Gazzaniga
+Goalkeeper
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/15146/Anthony-Georgiou/overview"
+"p168771"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Anthony Georgiou
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3046/Kieran-Gibbs/overview"
+"p42427"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p42427.png">Kieran
+Gibbs
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4481/Olivier-Giroud/overview"
+"p44346"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p44346.png">Olivier
+Giroud
+POSITION:Forward
+ 
+France
+
+
+
+href="//www.premierleague.com/players/9634/Connor-Goldson/overview"
+"p85128"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p85128.png">Connor
+Goldson
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14830/Angel-Gomes/overview"
+"p209041"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Angel Gomes
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10651/Joseph-Gomez/overview"
+"p171287"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p171287.png">Joseph
+Gomez
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4547/Curtis-Good/overview"
+"p124584"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Curtis Good
+POSITION:Defender
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/3390/Dan-Gosling/overview"
+"p40387"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40387.png">Dan
+Gosling
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4554/Yoan-Gouffran/overview"
+"p42727"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p42727.png">Yoan
+Gouffran
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/19909/Kamil-Grabara/overview"
+"p232904"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Kamil Grabara
+Goalkeeper
+ class="flag PL"> 
+Poland
+
+
+
+href="//www.premierleague.com/players/8055/Lewis-Grabban/overview"
+"p21246"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p21246.png">Lewis
+Grabban
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/12815/Max-Gradel/overview"
+"p59741"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59741.png">Max
+Gradel
+POSITION:Forward
+ class="flag CI"> 
+Cote D'Ivoire
+
+
+
+href="//www.premierleague.com/players/1870/Lee-Grant/overview"
+"p6744"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p6744.png">Lee
+Grant
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/9060/Andre-Gray/overview"
+"p73426"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p73426.png">Andre
+Gray
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8650/Matt-Grimes/overview"
+"p168144"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168144.png">Matt
+Grimes
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14766/Daniel-Grimshaw/overview"
+"p145232"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Daniel Grimshaw
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/22542/Pascal-Groß/overview"
+"p60307"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p60307.png">Pascal
+Groß
+POSITION:Midfielder
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/13985/Marko-Grujic/overview"
+"p210237"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p210237.png">Marko
+Grujic
+POSITION:Midfielder
+ class="flag RS"> 
+Serbia
+
+
+
+href="//www.premierleague.com/players/12582/Idrissa-Gueye/overview"
+"p80801"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p80801.png">Idrissa
+Gueye
+POSITION:Midfielder
+ class="flag SN"> 
+Senegal
+
+
+
+href="//www.premierleague.com/players/5101/Ilkay-Gündogan/overview"
+"p59859"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59859.png">Ilkay
+Gündogan
+POSITION:Midfielder
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/15027/Daniel-Gyollai/overview"
+"p174933"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p174933.png">Daniel
+Gyollai
+Goalkeeper
+ class="flag HU"> 
+Hungary
+
+
+
+href="//www.premierleague.com/players/4545/Massadio-Haidara/overview"
+"p92170"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Massadio Haidara
+POSITION:Defender
+ 
+France
+
+
+
+href="//www.premierleague.com/players/3183/Ben-Hamer/overview"
+"p38038"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p38038.png">Ben
+Hamer
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3819/Grant-Hanley/overview"
+"p83428"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p83428.png">Grant
+Hanley
+POSITION:Defender
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/20101/Rekeem-Harper/overview"
+"p232427"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Rekeem Harper
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3143/Joe-Hart/overview"
+"p15749"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p15749.png">Joe
+Hart
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13777/Jakob-Haugaard/overview"
+"p112316"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p112316.png">Jakob
+Haugaard
+Goalkeeper
+ class="flag DK"> 
+Denmark
+
+
+
+href="//www.premierleague.com/players/4713/Isaac-Hayden/overview"
+"p153127"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p153127.png">Isaac
+Hayden
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4503/Eden-Hazard/overview"
+"p42786"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p42786.png">Eden
+Hazard
+POSITION:Midfielder
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/2933/Tom-Heaton/overview"
+"p21205"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p21205.png">Tom
+Heaton
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/19609/Michael-Hefele/overview"
+"p87856"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p87856.png">Michael
+Hefele
+POSITION:Defender
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/13234/Tomer-Hemed/overview"
+"p38499"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p38499.png">Tomer
+Hemed
+POSITION:Forward
+ class="flag IL"> 
+Israel
+
+
+
+href="//www.premierleague.com/players/3712/Jordan-Henderson/overview"
+"p56979"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p56979.png">Jordan
+Henderson
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8586/Jeff-Hendrick/overview"
+"p83314"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p83314.png">Jeff
+Hendrick
+POSITION:Midfielder
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/2569/Wayne-Hennessey/overview"
+"p20066"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20066.png">Wayne
+Hennessey
+Goalkeeper
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/10534/Doneil-Henry/overview"
+"p88812"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p88812.png">Doneil
+Henry
+POSITION:Defender
+ class="flag CA"> 
+Canada
+
+
+
+href="//www.premierleague.com/players/10475/Ander-Herrera/overview"
+"p59846"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59846.png">Ander
+Herrera
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/10501/Jake-Hesketh/overview"
+"p158544"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p158544.png">Jake
+Hesketh
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14619/Mateusz-Hewelt/overview"
+"p185056"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p185056.png">Mateusz
+Hewelt
+Goalkeeper
+ class="flag PL"> 
+Poland
+
+
+
+href="//www.premierleague.com/players/21858/Ryan-Hill/overview"
+"p250081"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Ryan Hill
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10949/Jordy-Hiwula-Mayifuila/overview"
+"p104539"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Jordy Hiwula-Mayifuila
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/9936/Tommie-Hoban/overview"
+"p97296"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p97296.png">Tommie
+Hoban
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/3801/Jonathan-Hogg/overview"
+"p79619"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p79619.png">Jonathan
+Hogg
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/11575/Rob-Holding/overview"
+"p156074"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p156074.png">Rob
+Holding
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5713/José-Holebas/overview"
+"p40868"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40868.png">José
+Holebas
+POSITION:Defender
+ class="flag GR"> 
+Greece
+
+
+
+href="//www.premierleague.com/players/10564/Mason-Holgate/overview"
+"p194164"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p194164.png">Mason
+Holgate
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14637/Nathan-Holland/overview"
+"p183487"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Nathan Holland
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13191/Jordan-Holmes/overview"
+"p200369"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p200369.png">Jordan
+Holmes
+Goalkeeper
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/8340/Tareiq-Holmes-Dennis/overview"
+"p167822"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p167822.png">Tareiq
+Holmes-Dennis
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2074/Mark-Hudson/overview"
+"p7638"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p7638.png">Mark
+Hudson
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8589/Will-Hughes/overview"
+"p108413"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p108413.png">Will
+Hughes
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13229/Uwe-Hünemeier/overview"
+"p19071"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19071.png">Uwe
+Hünemeier
+POSITION:Defender
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/2053/Robert-Huth/overview"
+"p12413"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p12413.png">Robert
+Huth
+POSITION:Defender
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/10734/Emerson-Hyndman/overview"
+"p122342"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p122342.png">Emerson
+Hyndman
+POSITION:Midfielder
+ class="flag US"> 
+United States
+
+
+
+href="//www.premierleague.com/players/5272/Pierre-Emile-Højbjerg/overview"
+"p132015"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p132015.png">Pierre-Emile
+Højbjerg
+POSITION:Midfielder
+ class="flag DK"> 
+Denmark
+
+
+
+href="//www.premierleague.com/players/4527/Jordon-Ibe/overview"
+"p103912"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p103912.png">Jordon
+Ibe
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/7234/Vicente-Iborra/overview"
+"p54513"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p54513.png">Vicente
+Iborra
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/13554/Kelechi-Iheanacho/overview"
+"p173515"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p173515.png">Kelechi
+Iheanacho
+POSITION:Forward
+ class="flag NG"> 
+Nigeria
+
+
+
+href="//www.premierleague.com/players/5588/Giannelli-Imbula/overview"
+"p102738"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p102738.png">Giannelli
+Imbula
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/4284/Rohan-Ince/overview"
+"p120159"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Rohan Ince
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2928/Stephen-Ireland/overview"
+"p20481"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20481.png">Stephen
+Ireland
+POSITION:Midfielder
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/19618/Isaac-Success/overview"
+"p173514"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p173514.png">Isaac
+Success
+POSITION:Forward
+ class="flag NG"> 
+Nigeria
+
+
+
+href="//www.premierleague.com/players/4717/Alex-Iwobi/overview"
+"p153133"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p153133.png">Alex
+Iwobi
+POSITION:Midfielder
+ class="flag NG"> 
+Nigeria
+
+
+
+href="//www.premierleague.com/players/13246/Brad-Jackson/overview"
+"p151103"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Brad Jackson
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/9662/Jacob-Murphy/overview"
+"p114243"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Jacob Murphy
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3222/Phil-Jagielka/overview"
+"p7645"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p7645.png">Phil
+Jagielka
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4786/Eldin-Jakupovic/overview"
+"p11974"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p11974.png">Eldin
+Jakupovic
+Goalkeeper
+ class="flag CH"> 
+Switzerland
+
+
+
+href="//www.premierleague.com/players/3669/Matty-James/overview"
+"p61604"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61604.png">Matty
+James
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10480/Daryl-Janmaat/overview"
+"p52940"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p52940.png">Daryl
+Janmaat
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/15481/Vincent-Janssen/overview"
+"p165990"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p165990.png">Vincent
+Janssen
+POSITION:Forward
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/4541/Adnan-Januzaj/overview"
+"p154976"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p154976.png">Adnan
+Januzaj
+POSITION:Midfielder
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4248/Carl-Jenkinson/overview"
+"p80254"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p80254.png">Carl
+Jenkinson
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/11070/Jesús-Gámez/overview"
+"p27462"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p27462.png">Jesús
+Gámez
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/14446/Joe-Willock/overview"
+"p200089"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Joe Willock
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13556/Joel-Pereira/overview"
+"p168196"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168196.png">Joel
+Pereira
+Goalkeeper
+ class="flag PT"> 
+Portugal
+
+
+
+href="//www.premierleague.com/players/14696/Darnell-Johnson/overview"
+"p173810"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Darnell Johnson
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4331/Sam-Johnstone/overview"
+"p101982"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p101982.png">Sam
+Johnstone
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/15122/Jonathan-Dinzeyi/overview"
+"p216424"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Jonathan Dinzeyi
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3820/Phil-Jones/overview"
+"p76359"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p76359.png">Phil
+Jones
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13192/Corey-Jordan/overview"
+"p227290"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Corey Jordan
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5595/Jordan-Ayew/overview"
+"p80146"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p80146.png">Jordan
+Ayew
+POSITION:Forward
+ class="flag GH"> 
+Ghana
+
+
+
+href="//www.premierleague.com/players/4606/José-Fonte/overview"
+"p38580"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p38580.png">José
+Fonte
+POSITION:Defender
+ class="flag PT"> 
+Portugal
+
+
+
+href="//www.premierleague.com/players/12212/José-Izquierdo/overview"
+"p167473"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">José Izquierdo
+POSITION:Forward
+ class="flag CO"> 
+Colombia
+
+
+
+href="//www.premierleague.com/players/6425/Joselu/overview"
+"p61316"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61316.png">Joselu
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/14457/Josh-Da-Silva/overview"
+"p183656"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Josh Da Silva
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/15374/Josh-Sims/overview"
+"p153379"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p153379.png">Josh
+Sims
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/19605/Christian-Kabasele/overview"
+"p85624"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p85624.png">Christian
+Kabasele
+POSITION:Defender
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/3508/Younes-Kaboul/overview"
+"p37742"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37742.png">Younes
+Kaboul
+POSITION:Defender
+ 
+France
+
+
+
+href="//www.premierleague.com/players/19611/Elias-Kachunga/overview"
+"p87428"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p87428.png">Elias
+Kachunga
+POSITION:Forward
+ class="flag CG"> 
+Congo
+
+
+
+href="//www.premierleague.com/players/10191/Sullay-Kaikai/overview"
+"p138009"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p138009.png">Sullay
+Kaikai
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4101/Tomas-Kalas/overview"
+"p84482"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p84482.png">Tomas
+Kalas
+POSITION:Defender
+ class="flag CZ"> 
+Czech Republic
+
+
+
+href="//www.premierleague.com/players/3960/Harry-Kane/overview"
+"p78830"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p78830.png">Harry
+Kane
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13492/N'Golo-Kanté/overview"
+"p116594"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p116594.png">N'Golo
+Kanté
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/19679/Bartosz-Kapustka/overview"
+"p165911"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p165911.png">Bartosz
+Kapustka
+POSITION:Midfielder
+ class="flag PL"> 
+Poland
+
+
+
+href="//www.premierleague.com/players/19600/Loris-Karius/overview"
+"p104542"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p104542.png">Loris
+Karius
+Goalkeeper
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/5156/Beram-Kayal/overview"
+"p38490"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p38490.png">Beram
+Kayal
+POSITION:Midfielder
+ class="flag IL"> 
+Israel
+
+
+
+href="//www.premierleague.com/players/4333/Michael-Keane/overview"
+"p106611"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p106611.png">Michael
+Keane
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3644/Martin-Kelly/overview"
+"p58786"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p58786.png">Martin
+Kelly
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/15194/Daniel-Kemp/overview"
+"p221568"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p221568.png">Daniel
+Kemp
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13285/Kenedy/overview"
+"p167767"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p167767.png">Kenedy
+POSITION:Midfielder
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/10449/Jonjoe-Kenny/overview"
+"p153673"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p153673.png">Jonjoe
+Kenny
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13509/Ryan-Kent/overview"
+"p141291"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p141291.png">Ryan
+Kent
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4656/Ki-Sung-yueng/overview"
+"p76542"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p76542.png">Ki
+Sung-yueng
+POSITION:Midfielder
+ class="flag KR"> 
+South Korea
+
+
+
+href="//www.premierleague.com/players/22546/Kiko-Femenía/overview"
+"p54484"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p54484.png">Kiko
+Femenía
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/3926/Joshua-King/overview"
+"p78007"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p78007.png">Joshua
+King
+POSITION:Forward
+ class="flag NO"> 
+Norway
+
+
+
+href="//www.premierleague.com/players/10517/Stephen-Kingsley/overview"
+"p96306"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p96306.png">Stephen
+Kingsley
+POSITION:Defender
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/15134/Nya-Kirby/overview"
+"p209043"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p209043.png">Nya
+Kirby
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4886/Davy-Klaassen/overview"
+"p109065"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p109065.png">Davy
+Klaassen
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/15608/Ragnar-Klavan/overview"
+"p33871"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p33871.png">Ragnar
+Klavan
+POSITION:Defender
+ class="flag EE"> 
+Estonia
+
+
+
+href="//www.premierleague.com/players/8982/Anthony-Knockaert/overview"
+"p83543"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p83543.png">Anthony
+Knockaert
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/4141/Aleksandar-Kolarov/overview"
+"p42593"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p42593.png">Aleksandar
+Kolarov
+POSITION:Defender
+ class="flag RS"> 
+Serbia
+
+
+
+href="//www.premierleague.com/players/5368/Sead-Kolasinac/overview"
+"p111457"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p111457.png">Sead
+Kolasinac
+POSITION:Defender
+ class="flag BA"> 
+Bosnia And Herzegovina
+
+
+
+href="//www.premierleague.com/players/3653/Vincent-Kompany/overview"
+"p17476"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p17476.png">Vincent
+Kompany
+POSITION:Defender
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4030/Laurent-Koscielny/overview"
+"p51507"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p51507.png">Laurent
+Koscielny
+POSITION:Defender
+ 
+France
+
+
+
+href="//www.premierleague.com/players/5861/Cheikhou-Kouyaté/overview"
+"p55037"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p55037.png">Cheikhou
+Kouyaté
+POSITION:Midfielder
+ class="flag SN"> 
+Senegal
+
+
+
+href="//www.premierleague.com/players/3169/Tim-Krul/overview"
+"p20480"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20480.png">Tim
+Krul
+Goalkeeper
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/6899/Alexandre-Lacazette/overview"
+"p59966"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59966.png">Alexandre
+Lacazette
+POSITION:Forward
+ 
+France
+
+
+
+href="//www.premierleague.com/players/4618/Adam-Lallana/overview"
+"p39155"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p39155.png">Adam
+Lallana
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4842/Erik-Lamela/overview"
+"p62974"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p62974.png">Erik
+Lamela
+POSITION:Midfielder
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/13872/Manuel-Lanzini/overview"
+"p86934"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p86934.png">Manuel
+Lanzini
+POSITION:Midfielder
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/9257/Jamaal-Lascelles/overview"
+"p101148"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p101148.png">Jamaal
+Lascelles
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14776/Joel-Latibeaudiere/overview"
+"p204813"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p204813.png">Joel
+Latibeaudiere
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5561/Tom-Lawrence/overview"
+"p154968"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p154968.png">Tom
+Lawrence
+POSITION:Forward
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/20180/Achraf-Lazaar/overview"
+"p79479"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p79479.png">Achraf
+Lazaar
+POSITION:Defender
+ class="flag MA"> 
+Morocco
+
+
+
+href="//www.premierleague.com/players/3830/Lee-Chung-yong/overview"
+"p75773"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p75773.png">Lee
+Chung-yong
+POSITION:Midfielder
+ class="flag KR"> 
+South Korea
+
+
+
+href="//www.premierleague.com/players/2852/Adam-Legzdins/overview"
+"p28609"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p28609.png">Adam
+Legzdins
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/16607/Florian-Lejeune/overview"
+"p77359"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p77359.png">Florian
+Lejeune
+POSITION:Defender
+ 
+France
+
+
+
+href="//www.premierleague.com/players/13866/Jonathan-Leko/overview"
+"p173809"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p173809.png">Jonathan
+Leko
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5583/Mario-Lemina/overview"
+"p151086"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p151086.png">Mario
+Lemina
+POSITION:Midfielder
+ class="flag GA"> 
+Gabon
+
+
+
+href="//www.premierleague.com/players/2270/Aaron-Lennon/overview"
+"p17349"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p17349.png">Aaron
+Lennon
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/16550/Filip-Lesniak/overview"
+"p157665"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p157665.png">Filip
+Lesniak
+POSITION:Midfielder
+ class="flag SK"> 
+Slovakia
+
+
+
+href="//www.premierleague.com/players/14982/Harry-Lewis/overview"
+"p198044"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p198044.png">Harry
+Lewis
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10766/Lewis-Cook/overview"
+"p155408"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p155408.png">Lewis
+Cook
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5066/Victor-Lindelöf/overview"
+"p184667"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p184667.png">Victor
+Lindelöf
+POSITION:Defender
+ class="flag SE"> 
+Sweden
+
+
+
+href="//www.premierleague.com/players/4337/Jesse-Lingard/overview"
+"p109322"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p109322.png">Jesse
+Lingard
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3244/Jake-Livermore/overview"
+"p49944"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49944.png">Jake
+Livermore
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5551/Fernando-Llorente/overview"
+"p19760"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19760.png">Fernando
+Llorente
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4664/Hugo-Lloris/overview"
+"p37915"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37915.png">Hugo
+Lloris
+Goalkeeper
+ 
+France
+
+
+
+href="//www.premierleague.com/players/5179/Ruben-Loftus-Cheek/overview"
+"p126187"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p126187.png">Ruben
+Loftus-Cheek
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8888/Joe-Lolley/overview"
+"p168172"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168172.png">Joe
+Lolley
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3837/Kevin-Long/overview"
+"p41674"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41674.png">Kevin
+Long
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/13278/Ademola-Lookman/overview"
+"p219352"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p219352.png">Ademola
+Lookman
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/12444/Jonas-Lössl/overview"
+"p57513"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57513.png">Jonas
+Lössl
+Goalkeeper
+ class="flag DK"> 
+Denmark
+
+
+
+href="//www.premierleague.com/players/4813/Dejan-Lovren/overview"
+"p38454"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p38454.png">Dejan
+Lovren
+POSITION:Defender
+ class="flag HR"> 
+Croatia
+
+
+
+href="//www.premierleague.com/players/19608/Chris-Löwe/overview"
+"p54284"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p54284.png">Chris
+Löwe
+POSITION:Defender
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/4487/Matthew-Lowton/overview"
+"p68983"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p68983.png">Matthew
+Lowton
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3173/Kazenga-Lua-Lua/overview"
+"p40545"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40545.png">Kazenga
+Lua Lua
+POSITION:Midfielder
+ class="flag CG"> 
+Congo
+
+
+
+href="//www.premierleague.com/players/3137/Lucas-Leiva/overview"
+"p43191"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p43191.png">Lucas
+Leiva
+POSITION:Midfielder
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/7081/Lucas-Pérez/overview"
+"p155851"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p155851.png">Lucas
+Pérez
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4290/Romelu-Lukaku/overview"
+"p66749"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p66749.png">Romelu
+Lukaku
+POSITION:Forward
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/10422/Matt-Macey/overview"
+"p113534"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p113534.png">Matt
+Macey
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13228/Niki-Mäenpää/overview"
+"p48860"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p48860.png">Niki
+Mäenpää
+Goalkeeper
+ class="flag FI"> 
+Finland
+
+
+
+href="//www.premierleague.com/players/13987/Pablo-Maffeo/overview"
+"p170154"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p170154.png">Pablo
+Maffeo
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/9566/Harry-Maguire/overview"
+"p95658"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p95658.png">Harry
+Maguire
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/7985/Connor-Mahoney/overview"
+"p169743"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p169743.png">Connor
+Mahoney
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8983/Riyad-Mahrez/overview"
+"p103025"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p103025.png">Riyad
+Mahrez
+POSITION:Midfielder
+ class="flag DZ"> 
+Algeria
+
+
+
+href="//www.premierleague.com/players/10428/Ainsley-Maitland-Niles/overview"
+"p154043"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p154043.png">Ainsley
+Maitland-Niles
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/15418/Moses-Makasi/overview"
+"p156660"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p156660.png">Moses
+Makasi
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14456/Donyell-Malen/overview"
+"p204646"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p204646.png">Donyell
+Malen
+POSITION:Forward
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/3995/Scott-Malone/overview"
+"p79733"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p79733.png">Scott
+Malone
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5566/Steve-Mandanda/overview"
+"p44413"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p44413.png">Steve
+Mandanda
+Goalkeeper
+ 
+France
+
+
+
+href="//www.premierleague.com/players/6519/Sadio-Mané/overview"
+"p110979"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p110979.png">Sadio
+Mané
+POSITION:Midfielder
+ class="flag SN"> 
+Senegal
+
+
+
+href="//www.premierleague.com/players/5334/Eliaquim-Mangala/overview"
+"p57112"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57112.png">Eliaquim
+Mangala
+POSITION:Defender
+ 
+France
+
+
+
+href="//www.premierleague.com/players/4918/Javier-Manquillo/overview"
+"p109528"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p109528.png">Javier
+Manquillo
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/12374/Elvis-Manu/overview"
+"p92181"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Elvis Manu
+POSITION:Forward
+ class="flag GH"> 
+Ghana
+
+
+
+href="//www.premierleague.com/players/3471/Marc-Wilson/overview"
+"p32318"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p32318.png">Marc
+Wilson
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/3251/Adrian-Mariappa/overview"
+"p20145"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20145.png">Adrian
+Mariappa
+POSITION:Defender
+ class="flag JM"> 
+Jamaica
+
+
+
+href="//www.premierleague.com/players/5078/Lazar-Markovic/overview"
+"p99323"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p99323.png">Lazar
+Markovic
+POSITION:Midfielder
+ class="flag RS"> 
+Serbia
+
+
+
+href="//www.premierleague.com/players/2359/Dean-Marney/overview"
+"p15982"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p15982.png">Dean
+Marney
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/11272/Anthony-Martial/overview"
+"p148225"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p148225.png">Anthony
+Martial
+POSITION:Forward
+ 
+France
+
+
+
+href="//www.premierleague.com/players/11177/Bruno-Martins-Indi/overview"
+"p85352"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p85352.png">Bruno
+Martins Indi
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/19677/Brandon-Mason/overview"
+"p231172"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p231172.png">Brandon
+Mason
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13932/Ntumba-Massanka/overview"
+"p182620"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Ntumba Massanka
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/11284/Arthur-Masuaku/overview"
+"p105717"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p105717.png">Arthur
+Masuaku
+POSITION:Defender
+ 
+France
+
+
+
+href="//www.premierleague.com/players/12192/Mat-Ryan/overview"
+"p131897"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p131897.png">Mat
+Ryan
+Goalkeeper
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/4287/Juan-Mata/overview"
+"p43670"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p43670.png">Juan
+Mata
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/16275/Ales-Mateju/overview"
+"p209913"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Ales Mateju
+POSITION:Defender
+ class="flag CZ"> 
+Czech Republic
+
+
+
+href="//www.premierleague.com/players/23556/Mathias-Normann/overview"
+"p179276"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Mathias Normann
+POSITION:Midfielder
+ class="flag NO"> 
+Norway
+
+
+
+href="//www.premierleague.com/players/3861/Nemanja-Matic/overview"
+"p62398"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p62398.png">Nemanja
+Matic
+POSITION:Midfielder
+ class="flag RS"> 
+Serbia
+
+
+
+href="//www.premierleague.com/players/5375/Joel-Matip/overview"
+"p60914"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p60914.png">Joel
+Matip
+POSITION:Defender
+ class="flag CM"> 
+Cameroon
+
+
+
+href="//www.premierleague.com/players/15285/Matt-Worthington/overview"
+"p224946"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Matt Worthington
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/9960/Alfie-Mawson/overview"
+"p149266"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p149266.png">Alfie
+Mawson
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4706/Kevin-Mbabu/overview"
+"p120721"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Kevin Mbabu
+POSITION:Defender
+ class="flag CH"> 
+Switzerland
+
+
+
+href="//www.premierleague.com/players/5850/Chancel-Mbemba/overview"
+"p149736"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p149736.png">Chancel
+Mbemba
+POSITION:Defender
+ class="flag CG"> 
+Congo
+
+
+
+href="//www.premierleague.com/players/4224/James-McArthur/overview"
+"p50471"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p50471.png">James
+McArthur
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/4437/Gareth-McAuley/overview"
+"p19272"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19272.png">Gareth
+McAuley
+POSITION:Defender
+ class="flag GB-NIR"> 
+Northern Ireland
+
+
+
+href="//www.premierleague.com/players/8107/Oliver-McBurnie/overview"
+"p169432"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p169432.png">Oliver
+McBurnie
+POSITION:Forward
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/3979/James-McCarthy/overview"
+"p50472"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p50472.png">James
+McCarthy
+POSITION:Midfielder
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/4395/James-McClean/overview"
+"p63370"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p63370.png">James
+McClean
+POSITION:Midfielder
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/3779/Callum-McManaman/overview"
+"p61538"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61538.png">Callum
+McManaman
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/9649/Sam-McQueen/overview"
+"p153373"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p153373.png">Sam
+McQueen
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14824/Scott-McTominay/overview"
+"p195851"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p195851.png">Scott
+McTominay
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3909/Ben-Mee/overview"
+"p51927"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p51927.png">Ben
+Mee
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/15160/Max-Melbourne/overview"
+"p209419"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Max Melbourne
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/19617/Nampalys-Mendy/overview"
+"p86881"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p86881.png">Nampalys
+Mendy
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/19778/Mikel-Merino/overview"
+"p195384"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Mikel Merino
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/4246/Per-Mertesacker/overview"
+"p17127"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p17127.png">Per
+Mertesacker
+POSITION:Defender
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/22575/Roque-Mesa/overview"
+"p106899"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p106899.png">Roque
+Mesa
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/13280/Matt-Miazga/overview"
+"p163793"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p163793.png">Matt
+Miazga
+POSITION:Defender
+ class="flag US"> 
+United States
+
+
+
+href="//www.premierleague.com/players/4179/Simon-Mignolet/overview"
+"p66797"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p66797.png">Simon
+Mignolet
+Goalkeeper
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/5859/Luka-Milivojevic/overview"
+"p66975"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p66975.png">Luka
+Milivojevic
+POSITION:Midfielder
+ class="flag RS"> 
+Serbia
+
+
+
+href="//www.premierleague.com/players/2100/James-Milner/overview"
+"p15157"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p15157.png">James
+Milner
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8900/Tyrone-Mings/overview"
+"p149484"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p149484.png">Tyrone
+Mings
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4507/Kevin-Mirallas/overview"
+"p26901"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p26901.png">Kevin
+Mirallas
+POSITION:Midfielder
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/14822/Demetri-Mitchell/overview"
+"p171277"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Demetri Mitchell
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5879/Aleksandar-Mitrovic/overview"
+"p128389"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p128389.png">Aleksandar
+Mitrovic
+POSITION:Forward
+ class="flag RS"> 
+Serbia
+
+
+
+href="//www.premierleague.com/players/5102/Henrikh-Mkhitaryan/overview"
+"p57249"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57249.png">Henrikh
+Mkhitaryan
+POSITION:Midfielder
+ class="flag AM"> 
+Armenia
+
+
+ href="//www.premierleague.com/players/13778/Moha/overview"
+"p185649"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p185649.png">Moha
+POSITION:Midfielder
+ class="flag MA"> 
+Morocco
+
+
+
+href="//www.premierleague.com/players/4472/Nacho-Monreal/overview"
+"p38411"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p38411.png">Nacho
+Monreal
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/10518/Jefferson-Montero/overview"
+"p49195"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49195.png">Jefferson
+Montero
+POSITION:Midfielder
+ class="flag EC"> 
+Ecuador
+
+
+
+href="//www.premierleague.com/players/14698/Elliott-Moore/overview"
+"p179596"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Elliott Moore
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/19619/Aaron-Mooy/overview"
+"p74471"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p74471.png">Aaron
+Mooy
+POSITION:Midfielder
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/5804/Álvaro-Morata/overview"
+"p88482"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p88482.png">Álvaro
+Morata
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/7219/Alberto-Moreno/overview"
+"p100059"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p100059.png">Alberto
+Moreno
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/8966/Wes-Morgan/overview"
+"p15033"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p15033.png">Wes
+Morgan
+POSITION:Defender
+ class="flag JM"> 
+Jamaica
+
+
+
+href="//www.premierleague.com/players/2529/James-Morrison/overview"
+"p18008"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p18008.png">James
+Morrison
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/3983/Victor-Moses/overview"
+"p49013"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49013.png">Victor
+Moses
+POSITION:Midfielder
+ class="flag NG"> 
+Nigeria
+
+
+
+href="//www.premierleague.com/players/22570/Steve-Mounie/overview"
+"p169141"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p169141.png">Steve
+Mounie
+POSITION:Forward
+ class="flag BJ"> 
+Benin
+
+
+
+href="//www.premierleague.com/players/19603/Lys-Mousset/overview"
+"p178304"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p178304.png">Lys
+Mousset
+POSITION:Forward
+ 
+France
+
+
+
+href="//www.premierleague.com/players/12356/Erwin-Mulder/overview"
+"p40346"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Erwin Mulder
+Goalkeeper
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/4822/Marc-Muniesa/overview"
+"p61595"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61595.png">Marc
+Muniesa
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/19911/Arijanet-Muric/overview"
+"p232917"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Arijanet Muric
+Goalkeeper
+ class="flag CH"> 
+Switzerland
+
+
+
+href="//www.premierleague.com/players/9581/Jamie-Murphy/overview"
+"p2513"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p2513.png">Jamie
+Murphy
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/4772/Glenn-Murray/overview"
+"p20529"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20529.png">Glenn
+Murray
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5208/Ahmed-Musa/overview"
+"p90714"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p90714.png">Ahmed
+Musa
+POSITION:Forward
+ class="flag NG"> 
+Nigeria
+
+
+
+href="//www.premierleague.com/players/11147/Charly-Musonda/overview"
+"p171162"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p171162.png">Charly
+Musonda
+POSITION:Midfielder
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/3869/Shkodran-Mustafi/overview"
+"p69140"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p69140.png">Shkodran
+Mustafi
+POSITION:Defender
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/3333/Jordon-Mutch/overview"
+"p49438"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49438.png">Jordon
+Mutch
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2011/Boaz-Myhill/overview"
+"p12086"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p12086.png">Boaz
+Myhill
+Goalkeeper
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/6903/Clinton-N'Jie/overview"
+"p145212"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p145212.png">Clinton
+N'Jie
+POSITION:Forward
+ class="flag CM"> 
+Cameroon
+
+
+
+href="//www.premierleague.com/players/7122/Luciano-Narsingh/overview"
+"p57586"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57586.png">Luciano
+Narsingh
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/3546/Samir-Nasri/overview"
+"p28554"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p28554.png">Samir
+Nasri
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/3956/Kyle-Naughton/overview"
+"p49539"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49539.png">Kyle
+Naughton
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14712/Layton-Ndukwu/overview"
+"p173804"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Layton Ndukwu
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14450/Reiss-Nelson/overview"
+"p200641"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Reiss Nelson
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/15052/Julien-Ngoy/overview"
+"p200455"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p200455.png">Julien
+Ngoy
+POSITION:Forward
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/13390/Oumar-Niasse/overview"
+"p113688"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p113688.png">Oumar
+Niasse
+POSITION:Forward
+ class="flag SN"> 
+Senegal
+
+
+
+href="//www.premierleague.com/players/15938/Georges-Kévin-Nkoudou/overview"
+"p168566"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168566.png">Georges-Kévin
+Nkoudou
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/3014/Mark-Noble/overview"
+"p18073"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p18073.png">Mark
+Noble
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/19604/Nolito/overview"
+"p86173"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p86173.png">Nolito
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/13795/Kristoffer-Nordfeldt/overview"
+"p61760"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61760.png">Kristoffer
+Nordfeldt
+Goalkeeper
+ class="flag SE"> 
+Sweden
+
+
+
+href="//www.premierleague.com/players/5490/Nordin-Amrabat/overview"
+"p44604"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p44604.png">Nordin
+Amrabat
+POSITION:Midfielder
+ class="flag MA"> 
+Morocco
+
+
+
+href="//www.premierleague.com/players/3924/Oliver-Norwood/overview"
+"p79934"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p79934.png">Oliver
+Norwood
+POSITION:Midfielder
+ class="flag GB-NIR"> 
+Northern Ireland
+
+
+ href="//www.premierleague.com/players/13821/Nyom/overview"
+"p67527"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p67527.png">Nyom
+POSITION:Defender
+ class="flag CM"> 
+Cameroon
+
+
+
+href="//www.premierleague.com/players/20870/Keelan-O'Connell/overview"
+"p231847"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p231847.png">Keelan
+O'Connell
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10425/Stefan-O'Connor/overview"
+"p154041"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Stefan O'Connor
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13584/Kieran-O'Hara/overview"
+"p192182"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Kieran O'Hara
+Goalkeeper
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/20095/Aiden-O'Neill/overview"
+"p234483"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p234483.png">Aiden
+O'Neill
+POSITION:Midfielder
+ class="flag AU"> 
+Australia
+
+
+
+href="//www.premierleague.com/players/15154/Dara-O'Shea/overview"
+"p216616"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p216616.png">Dara
+O'Shea
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/15140/Tashan-Oakley-Boothe/overview"
+"p199404"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Tashan Oakley-Boothe
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13871/Pedro-Obiang/overview"
+"p59779"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59779.png">Pedro
+Obiang
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/5514/Angelo-Ogbonna/overview"
+"p40669"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40669.png">Angelo
+Ogbonna
+POSITION:Defender
+ class="flag IT"> 
+Italy
+
+
+
+href="//www.premierleague.com/players/3889/Stefano-Okaka/overview"
+"p20046"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20046.png">Stefano
+Okaka
+POSITION:Forward
+ class="flag IT"> 
+Italy
+
+
+
+href="//www.premierleague.com/players/13494/Shinji-Okazaki/overview"
+"p78412"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p78412.png">Shinji
+Okazaki
+POSITION:Forward
+ class="flag JP"> 
+Japan
+
+
+
+href="//www.premierleague.com/players/10439/Ola-Aina/overview"
+"p159506"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p159506.png">Ola
+Aina
+POSITION:Defender
+ class="flag NG"> 
+Nigeria
+
+
+
+href="//www.premierleague.com/players/20869/Ollie-Harfield/overview"
+"p231845"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p231845.png">Ollie
+Harfield
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13717/Olufela-Olomola/overview"
+"p154050"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p154050.png">Olufela
+Olomola
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2867/Martin-Olsson/overview"
+"p28654"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p28654.png">Martin
+Olsson
+POSITION:Defender
+ class="flag SE"> 
+Sweden
+
+
+
+href="//www.premierleague.com/players/7490/Josh-Onomah/overview"
+"p168765"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168765.png">Josh
+Onomah
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/23615/Henry-Onyekuru/overview"
+"p229273"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p229273.png">Henry
+Onyekuru
+POSITION:Forward
+ class="flag NG"> 
+Nigeria
+
+
+
+href="//www.premierleague.com/players/10465/Divock-Origi/overview"
+"p152760"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p152760.png">Divock
+Origi
+POSITION:Forward
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4286/Oriol-Romeu/overview"
+"p78056"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p78056.png">Oriol
+Romeu
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/10420/David-Ospina/overview"
+"p48844"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p48844.png">David
+Ospina
+Goalkeeper
+ class="flag CO"> 
+Colombia
+
+
+
+href="//www.premierleague.com/players/6058/Nicolás-Otamendi/overview"
+"p57410"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57410.png">Nicolás
+Otamendi
+POSITION:Defender
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/14753/Ovie-Ejaria/overview"
+"p154051"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p154051.png">Ovie
+Ejaria
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4252/Alex-Oxlade-Chamberlain/overview"
+"p81880"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p81880.png">Alex
+Oxlade-Chamberlain
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4714/Mesut-Özil/overview"
+"p37605"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37605.png">Mesut
+Özil
+POSITION:Midfielder
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/13283/Kasey-Palmer/overview"
+"p160190"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p160190.png">Kasey
+Palmer
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4319/Costel-Pantilimon/overview"
+"p56827"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p56827.png">Costel
+Pantilimon
+Goalkeeper
+ class="flag RO"> 
+Romania
+
+
+
+href="//www.premierleague.com/players/10953/Juan-Carlos-Paredes/overview"
+"p98780"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p98780.png">Juan
+Carlos Paredes
+POSITION:Defender
+ class="flag EC"> 
+Ecuador
+
+
+
+href="//www.premierleague.com/players/10440/Mario-Pasalic/overview"
+"p164570"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p164570.png">Mario
+Pasalic
+POSITION:Midfielder
+ class="flag HR"> 
+Croatia
+
+
+
+href="//www.premierleague.com/players/8710/Patrick-Roberts/overview"
+"p124165"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p124165.png">Patrick
+Roberts
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14743/Paulinho/overview"
+"p214434"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p214434.png">Paulinho
+POSITION:Midfielder
+ class="flag PT"> 
+Portugal
+
+
+
+href="//www.premierleague.com/players/9664/Jack-Payne/overview"
+"p167541"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p167541.png">Jack
+Payne
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+ href="//www.premierleague.com/players/4972/Pedro/overview"
+"p49579"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49579.png">Pedro
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/13825/Adalberto-Peñaranda/overview"
+"p194401"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p194401.png">Adalberto
+Peñaranda
+POSITION:Forward
+ class="flag VE"> 
+Venezuela
+
+
+
+href="//www.premierleague.com/players/9895/Matthew-Pennington/overview"
+"p114093"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p114093.png">Matthew
+Pennington
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10476/Andreas-Pereira/overview"
+"p156689"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p156689.png">Andreas
+Pereira
+POSITION:Midfielder
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/11213/Roberto-Pereyra/overview"
+"p61566"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p61566.png">Roberto
+Pereyra
+POSITION:Midfielder
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/14144/Kleton-Perntreou/overview"
+"p168057"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p168057.png">Kleton
+Perntreou
+Goalkeeper
+ class="flag GR"> 
+Greece
+
+
+
+href="//www.premierleague.com/players/14161/Michael-Phillips/overview"
+"p215885"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Michael Phillips
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4640/Jordan-Pickford/overview"
+"p111234"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p111234.png">Jordan
+Pickford
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/12463/Jérémy-Pied/overview"
+"p40833"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40833.png">Jérémy
+Pied
+POSITION:Defender
+ 
+France
+
+
+
+href="//www.premierleague.com/players/4821/Erik-Pieters/overview"
+"p39487"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p39487.png">Erik
+Pieters
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/3920/Paul-Pogba/overview"
+"p74208"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p74208.png">Paul
+Pogba
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/10079/Nick-Pope/overview"
+"p98747"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p98747.png">Nick
+Pope
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13822/Sebastian-Prödl/overview"
+"p41945"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41945.png">Sebastian
+Prödl
+POSITION:Defender
+ class="flag AT"> 
+Austria
+
+
+
+href="//www.premierleague.com/players/16790/Davy-Pröpper/overview"
+"p66242"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Davy Pröpper
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/8049/Marc-Pugh/overview"
+"p20037"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20037.png">Marc
+Pugh
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4084/Jason-Puncheon/overview"
+"p19197"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p19197.png">Jason
+Puncheon
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/21677/Collin-Quaner/overview"
+"p84112"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p84112.png">Collin
+Quaner
+POSITION:Forward
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/19678/Domingos-Quina/overview"
+"p216058"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p216058.png">Domingos
+Quina
+POSITION:Midfielder
+ class="flag PT"> 
+Portugal
+
+
+
+href="//www.premierleague.com/players/19673/Ramadan-Sobhi/overview"
+"p205102"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p205102.png">Ramadan
+Sobhi
+POSITION:Midfielder
+ class="flag EG"> 
+Egypt
+
+
+
+href="//www.premierleague.com/players/11074/Sandro-Ramírez/overview"
+"p108438"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p108438.png">Sandro
+Ramírez
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/13703/Aaron-Ramsdale/overview"
+"p225321"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Aaron Ramsdale
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3548/Aaron-Ramsey/overview"
+"p41792"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41792.png">Aaron
+Ramsey
+POSITION:Midfielder
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/11013/Connor-Randall/overview"
+"p134383"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p134383.png">Connor
+Randall
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2216/Darren-Randolph/overview"
+"p32259"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p32259.png">Darren
+Randolph
+Goalkeeper
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/4405/Angel-Rangel/overview"
+"p42996"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p42996.png">Angel
+Rangel
+POSITION:Defender
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/13565/Marcus-Rashford/overview"
+"p176297"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p176297.png">Marcus
+Rashford
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3811/Nathan-Redmond/overview"
+"p83283"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p83283.png">Nathan
+Redmond
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4818/Harrison-Reed/overview"
+"p153366"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p153366.png">Harrison
+Reed
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4209/Winston-Reid/overview"
+"p48717"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p48717.png">Winston
+Reid
+POSITION:Defender
+ class="flag NZ"> 
+New Zealand
+
+
+
+href="//www.premierleague.com/players/13123/Jeff-Reine-Adelaide/overview"
+"p208987"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p208987.png">Jeff
+Reine-Adelaide
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/4572/Loïc-Remy/overview"
+"p38419"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p38419.png">Loïc
+Remy
+POSITION:Forward
+ 
+France
+
+
+
+href="//www.premierleague.com/players/15202/Declan-Rice/overview"
+"p204480"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p204480.png">Declan
+Rice
+POSITION:Midfielder
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/24630/Richarlison/overview"
+"p212319"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Richarlison
+POSITION:Forward
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/4878/Jairo-Riedewald/overview"
+"p173954"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p173954.png">Jairo
+Riedewald
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/3934/Matt-Ritchie/overview"
+"p56983"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p56983.png">Matt
+Ritchie
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/13230/Rob-Hunt/overview"
+"p167810"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Rob Hunt
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13511/Roberto-Firmino/overview"
+"p92217"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p92217.png">Roberto
+Firmino
+POSITION:Forward
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/13917/Connor-Roberts/overview"
+"p192290"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p192290.png">Connor
+Roberts
+POSITION:Defender
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/10458/Andrew-Robertson/overview"
+"p122798"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p122798.png">Andrew
+Robertson
+POSITION:Defender
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/1404/Paul-Robinson/overview"
+"p1801"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p1801.png">Paul
+Robinson
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4696/Joel-Robles/overview"
+"p78315"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p78315.png">Joel
+Robles
+Goalkeeper
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/3484/Hal-Robson-Kanu/overview"
+"p49440"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49440.png">Hal
+Robson-Kanu
+POSITION:Forward
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/3851/Jay-Rodriguez/overview"
+"p44683"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p44683.png">Jay
+Rodriguez
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10472/Marcos-Rojo/overview"
+"p58893"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p58893.png">Marcos
+Rojo
+POSITION:Defender
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/13555/Sergio-Romero/overview"
+"p42899"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p42899.png">Sergio
+Romero
+Goalkeeper
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/6030/Salomón-Rondón/overview"
+"p57134"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p57134.png">Salomón
+Rondón
+POSITION:Forward
+ class="flag VE"> 
+Venezuela
+
+
+
+href="//www.premierleague.com/players/2064/Wayne-Rooney/overview"
+"p13017"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p13017.png">Wayne
+Rooney
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3507/Danny-Rose/overview"
+"p38290"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p38290.png">Danny
+Rose
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2464/Liam-Rosenior/overview"
+"p15137"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p15137.png">Liam
+Rosenior
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2681/Wayne-Routledge/overview"
+"p11829"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p11829.png">Wayne
+Routledge
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14285/Charlie-Rowan/overview"
+"p221286"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p221286.png">Charlie
+Rowan
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/16801/Antonio-Rüdiger/overview"
+"p102380"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p102380.png">Antonio
+Rüdiger
+POSITION:Defender
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/6251/Henri-Saivet/overview"
+"p43521"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Henri Saivet
+POSITION:Midfielder
+ class="flag SN"> 
+Senegal
+
+
+
+href="//www.premierleague.com/players/4796/Mamadou-Sakho/overview"
+"p40784"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40784.png">Mamadou
+Sakho
+POSITION:Defender
+ 
+France
+
+
+
+href="//www.premierleague.com/players/10004/Bakary-Sako/overview"
+"p44343"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p44343.png">Bakary
+Sako
+POSITION:Midfielder
+ class="flag ML"> 
+Mali
+
+
+
+href="//www.premierleague.com/players/5178/Mohamed-Salah/overview"
+"p118748"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p118748.png">Mohamed
+Salah
+POSITION:Forward
+ class="flag EG"> 
+Egypt
+
+
+
+href="//www.premierleague.com/players/4973/Alexis-Sánchez/overview"
+"p37265"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37265.png">Alexis
+Sánchez
+POSITION:Forward
+ class="flag CL"> 
+Chile
+
+
+
+href="//www.premierleague.com/players/14801/Jadon-Sancho/overview"
+"p209243"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Jadon Sancho
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5384/Leroy-Sané/overview"
+"p182156"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p182156.png">Leroy
+Sané
+POSITION:Midfielder
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/8887/Sean-Scannell/overview"
+"p49202"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49202.png">Sean
+Scannell
+POSITION:Midfielder
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/19607/Christopher-Schindler/overview"
+"p85368"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p85368.png">Christopher
+Schindler
+POSITION:Defender
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/8980/Jeffrey-Schlupp/overview"
+"p86417"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p86417.png">Jeffrey
+Schlupp
+POSITION:Midfielder
+ class="flag GH"> 
+Ghana
+
+
+
+href="//www.premierleague.com/players/2508/Kasper-Schmeichel/overview"
+"p17745"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p17745.png">Kasper
+Schmeichel
+Goalkeeper
+ class="flag DK"> 
+Denmark
+
+
+
+href="//www.premierleague.com/players/4615/Morgan-Schneiderlin/overview"
+"p42774"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p42774.png">Morgan
+Schneiderlin
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/24346/Ryan-Schofield/overview"
+"p241791"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p241791.png">Ryan
+Schofield
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14578/Kyle-Scott/overview"
+"p181911"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p181911.png">Kyle
+Scott
+POSITION:Midfielder
+ class="flag US"> 
+United States
+
+
+
+href="//www.premierleague.com/players/22545/Jorge-Segura/overview"
+"p209926"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Jorge Segura
+POSITION:Defender
+ class="flag CO"> 
+Colombia
+
+
+
+href="//www.premierleague.com/players/16723/Matz-Sels/overview"
+"p85633"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p85633.png">Matz
+Sels
+Goalkeeper
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/5267/Xherdan-Shaqiri/overview"
+"p68312"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p68312.png">Xherdan
+Shaqiri
+POSITION:Midfielder
+ class="flag CH"> 
+Switzerland
+
+
+
+href="//www.premierleague.com/players/15142/Samuel-Shashoua/overview"
+"p205135"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Samuel Shashoua
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4608/Luke-Shaw/overview"
+"p106760"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p106760.png">Luke
+Shaw
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3158/Ryan-Shawcross/overview"
+"p37869"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37869.png">Ryan
+Shawcross
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13121/Ben-Sheaf/overview"
+"p173803"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p173803.png">Ben
+Sheaf
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4135/Jonjo-Shelvey/overview"
+"p50232"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p50232.png">Jonjo
+Shelvey
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10507/Oliver-Shenton/overview"
+"p160901"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p160901.png">Oliver
+Shenton
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10543/Sheyi-Ojo/overview"
+"p141921"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p141921.png">Sheyi
+Ojo
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2007/Steve-Sidwell/overview"
+"p11735"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p11735.png">Steve
+Sidwell
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4421/Gylfi-Sigurdsson/overview"
+"p55422"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p55422.png">Gylfi
+Sigurdsson
+POSITION:Midfielder
+ class="flag IS"> 
+Iceland
+
+
+
+href="//www.premierleague.com/players/4145/David-Silva/overview"
+"p20664"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20664.png">David
+Silva
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/13193/Jack-Simpson/overview"
+"p222434"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p222434.png">Jack
+Simpson
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4529/Jerome-Sinclair/overview"
+"p133801"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p133801.png">Jerome
+Sinclair
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4549/Moussa-Sissoko/overview"
+"p45268"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p45268.png">Moussa
+Sissoko
+POSITION:Midfielder
+ 
+France
+
+
+
+href="//www.premierleague.com/players/13232/Jiri-Skalak/overview"
+"p88170"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p88170.png">Jiri
+Skalak
+POSITION:Midfielder
+ class="flag CZ"> 
+Czech Republic
+
+
+
+href="//www.premierleague.com/players/11364/Islam-Slimani/overview"
+"p149828"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p149828.png">Islam
+Slimani
+POSITION:Forward
+ class="flag DZ"> 
+Algeria
+
+
+
+href="//www.premierleague.com/players/3613/Chris-Smalling/overview"
+"p55909"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p55909.png">Chris
+Smalling
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3512/Adam-Smith/overview"
+"p54469"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p54469.png">Adam
+Smith
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4558/Robert-Snodgrass/overview"
+"p18987"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p18987.png">Robert
+Snodgrass
+POSITION:Midfielder
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/16608/Rubén-Sobrino/overview"
+"p112994"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Rubén Sobrino
+POSITION:Forward
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/10443/Dominic-Solanke/overview"
+"p154566"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p154566.png">Dominic
+Solanke
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8171/Solly-March/overview"
+"p109345"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p109345.png">Solly
+March
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4999/Son-Heung-Min/overview"
+"p85971"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p85971.png">Son
+Heung-Min
+POSITION:Midfielder
+ class="flag KR"> 
+South Korea
+
+
+
+href="//www.premierleague.com/players/10444/Pape-Souaré/overview"
+"p79228"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p79228.png">Pape
+Souaré
+POSITION:Defender
+ class="flag SN"> 
+Senegal
+
+
+
+href="//www.premierleague.com/players/21809/Harry-Souttar/overview"
+"p194190"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p194190.png">Harry
+Souttar
+POSITION:Defender
+ class="flag GB-SCT"> 
+Scotland
+
+
+
+href="//www.premierleague.com/players/2664/Julian-Speroni/overview"
+"p11554"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p11554.png">Julian
+Speroni
+Goalkeeper
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/4679/Raphael-Spiegel/overview"
+"p82257"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p82257.png">Raphael
+Spiegel
+Goalkeeper
+ class="flag CH"> 
+Switzerland
+
+
+
+href="//www.premierleague.com/players/3766/Junior-Stanislas/overview"
+"p56872"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p56872.png">Junior
+Stanislas
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/11134/Jon-Gorenc-Stankovic/overview"
+"p192301"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p192301.png">Jon
+Gorenc Stankovic
+POSITION:Defender
+ class="flag SI"> 
+Slovenia
+
+
+
+href="//www.premierleague.com/players/4779/Maarten-Stekelenburg/overview"
+"p10318"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p10318.png">Maarten
+Stekelenburg
+Goalkeeper
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/8168/Dale-Stephens/overview"
+"p40845"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40845.png">Dale
+Stephens
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4316/Raheem-Sterling/overview"
+"p103955"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p103955.png">Raheem
+Sterling
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10482/Jamie-Sterry/overview"
+"p181397"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Jamie Sterry
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8045/Steve-Cook/overview"
+"p56917"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p56917.png">Steve
+Cook
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4426/Kevin-Stewart/overview"
+"p106449"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p106449.png">Kevin
+Stewart
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4505/John-Stones/overview"
+"p97299"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p97299.png">John
+Stones
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/1295/Stuart-Taylor/overview"
+"p3201"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p3201.png">Stuart
+Taylor
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3154/Daniel-Sturridge/overview"
+"p40755"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40755.png">Daniel
+Sturridge
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4925/Mario-Suárez/overview"
+"p28160"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p28160.png">Mario
+Suárez
+POSITION:Midfielder
+ class="flag ES"> 
+Spain
+
+
+
+href="//www.premierleague.com/players/2338/Andrew-Surman/overview"
+"p15237"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p15237.png">Andrew
+Surman
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13195/Sam-Surridge/overview"
+"p217331"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Sam Surridge
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/5428/Markus-Suttner/overview"
+"p43808"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p43808.png">Markus
+Suttner
+POSITION:Defender
+ class="flag AT"> 
+Austria
+
+
+
+href="//www.premierleague.com/players/10556/Ryan-Sweeney/overview"
+"p200691"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Ryan Sweeney
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3543/Wojciech-Szczesny/overview"
+"p59936"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59936.png">Wojciech
+Szczesny
+Goalkeeper
+ class="flag PL"> 
+Poland
+
+
+
+href="//www.premierleague.com/players/10498/Dusan-Tadic/overview"
+"p62399"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p62399.png">Dusan
+Tadic
+POSITION:Midfielder
+ class="flag RS"> 
+Serbia
+
+
+
+href="//www.premierleague.com/players/4815/Matt-Targett/overview"
+"p169359"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p169359.png">Matt
+Targett
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8143/James-Tarkowski/overview"
+"p17761"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p17761.png">James
+Tarkowski
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/24214/Kyle-Taylor/overview"
+"p431774"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Kyle Taylor
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/10609/James-Tilley/overview"
+"p198873"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">James Tilley
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3517/James-Tomkins/overview"
+"p49413"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49413.png">James
+Tomkins
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13281/Fikayo-Tomori/overview"
+"p194794"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p194794.png">Fikayo
+Tomori
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13549/Tosin-Adarabioyo/overview"
+"p109646"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p109646.png">Tosin
+Adarabioyo
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13235/Richard-Towell/overview"
+"p87894"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/Photo-Missing.png"
+data-error="true">Richard Towell
+POSITION:Forward
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/3724/Andros-Townsend/overview"
+"p60252"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p60252.png">Andros
+Townsend
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3905/Kieran-Trippier/overview"
+"p77794"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p77794.png">Kieran
+Trippier
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13559/Axel-Tuanzebe/overview"
+"p180804"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p180804.png">Axel
+Tuanzebe
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13477/Josh-Tymon/overview"
+"p221267"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p221267.png">Josh
+Tymon
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8174/Leonardo-Ulloa/overview"
+"p54316"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p54316.png">Leonardo
+Ulloa
+POSITION:Forward
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/10435/Fredrik-Ulvestad/overview"
+"p95508"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p95508.png">Fredrik
+Ulvestad
+POSITION:Midfielder
+ class="flag NO"> 
+Norway
+
+
+
+href="//www.premierleague.com/players/10541/Enner-Valencia/overview"
+"p148179"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p148179.png">Enner
+Valencia
+POSITION:Forward
+ class="flag EC"> 
+Ecuador
+
+
+
+href="//www.premierleague.com/players/3362/Patrick-van-Aanholt/overview"
+"p74230"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p74230.png">Patrick
+van Aanholt
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/4877/Mike-van-der-Hoorn/overview"
+"p97615"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p97615.png">Mike
+van der Hoorn
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/5140/Virgil-van-Dijk/overview"
+"p97032"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p97032.png">Virgil
+van Dijk
+POSITION:Defender
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/10964/Rajiv-van-La-Parra/overview"
+"p51344"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p51344.png">Rajiv
+van La Parra
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/8979/Jamie-Vardy/overview"
+"p101668"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p101668.png">Jamie
+Vardy
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4809/Guillermo-Varela/overview"
+"p152015"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p152015.png">Guillermo
+Varela
+POSITION:Defender
+ class="flag UY"> 
+Uruguay
+
+
+
+href="//www.premierleague.com/players/15044/Thibaud-Verlinden/overview"
+"p220650"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p220650.png">Thibaud
+Verlinden
+POSITION:Forward
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4666/Jan-Vertonghen/overview"
+"p39194"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p39194.png">Jan
+Vertonghen
+POSITION:Defender
+ class="flag BE"> 
+Belgium
+
+
+
+href="//www.premierleague.com/players/4007/Sam-Vokes/overview"
+"p40399"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40399.png">Sam
+Vokes
+POSITION:Forward
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/4398/Michel-Vorm/overview"
+"p39215"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p39215.png">Michel
+Vorm
+Goalkeeper
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/8003/Mark-Waddington/overview"
+"p176698"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p176698.png">Mark
+Waddington
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2839/Theo-Walcott/overview"
+"p20467"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20467.png">Theo
+Walcott
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3955/Kyle-Walker/overview"
+"p58621"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p58621.png">Kyle
+Walker
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13815/Kyle-Walker-Peters/overview"
+"p158534"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p158534.png">Kyle
+Walker-Peters
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2047/Jonathan-Walters/overview"
+"p12813"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p12813.png">Jonathan
+Walters
+POSITION:Forward
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/8159/Christian-Walton/overview"
+"p108813"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p108813.png">Christian
+Walton
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/14164/Aaron-Wan-Bissaka/overview"
+"p214590"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p214590.png">Aaron
+Wan-Bissaka
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4816/Victor-Wanyama/overview"
+"p54756"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p54756.png">Victor
+Wanyama
+POSITION:Midfielder
+ class="flag KE"> 
+Kenya
+
+
+
+href="//www.premierleague.com/players/3999/Stephen-Ward/overview"
+"p40616"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p40616.png">Stephen
+Ward
+POSITION:Defender
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/4617/James-Ward-Prowse/overview"
+"p101178"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p101178.png">James
+Ward-Prowse
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2686/Ben-Watson/overview"
+"p16045"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p16045.png">Ben
+Watson
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3452/Danny-Welbeck/overview"
+"p50175"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p50175.png">Danny
+Welbeck
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8889/Nahki-Wells/overview"
+"p92383"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p92383.png">Nahki
+Wells
+POSITION:Forward
+ class="flag BM"> 
+Bermuda
+
+
+
+href="//www.premierleague.com/players/4489/Ashley-Westwood/overview"
+"p60551"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p60551.png">Ashley
+Westwood
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2299/Glenn-Whelan/overview"
+"p12150"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p12150.png">Glenn
+Whelan
+POSITION:Midfielder
+ class="flag IE"> 
+Ireland
+
+
+
+href="//www.premierleague.com/players/14548/Ben-White/overview"
+"p198869"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p198869.png">Ben
+White
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2980/Dean-Whitehead/overview"
+"p5589"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p5589.png">Dean
+Whitehead
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/15111/Alfie-Whiteman/overview"
+"p175941"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p175941.png">Alfie
+Whiteman
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4396/Connor-Wickham/overview"
+"p59125"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p59125.png">Connor
+Wickham
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/2678/Rhoys-Wiggins/overview"
+"p37342"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p37342.png">Rhoys
+Wiggins
+POSITION:Defender
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/7114/Georginio-Wijnaldum/overview"
+"p41733"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p41733.png">Georginio
+Wijnaldum
+POSITION:Midfielder
+ class="flag NL"> 
+Netherlands
+
+
+
+href="//www.premierleague.com/players/20479/Wilfred-Ndidi/overview"
+"p203341"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p203341.png">Wilfred
+Ndidi
+POSITION:Midfielder
+ class="flag NG"> 
+Nigeria
+
+
+
+href="//www.premierleague.com/players/16549/Will-Miller/overview"
+"p158535"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p158535.png">Will
+Miller
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4767/Jonathan-Williams/overview"
+"p103100"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p103100.png">Jonathan
+Williams
+POSITION:Midfielder
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/4748/Willian/overview"
+"p47431"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p47431.png">Willian
+POSITION:Midfielder
+ class="flag BR"> 
+Brazil
+
+
+
+href="//www.premierleague.com/players/14821/Matthew-Willock/overview"
+"p176295"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p176295.png">Matthew
+Willock
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3547/Jack-Wilshere/overview"
+"p54102"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p54102.png">Jack
+Wilshere
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/8454/Callum-Wilson/overview"
+"p75115"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p75115.png">Callum
+Wilson
+POSITION:Forward
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/13813/Kevin-Wimmer/overview"
+"p97485"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p97485.png">Kevin
+Wimmer
+POSITION:Defender
+ class="flag AT"> 
+Austria
+
+
+
+href="//www.premierleague.com/players/7488/Harry-Winks/overview"
+"p157668"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p157668.png">Harry
+Winks
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4989/Philipp-Wollscheid/overview"
+"p69960"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p69960.png">Philipp
+Wollscheid
+POSITION:Defender
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/14758/Ben-Woodburn/overview"
+"p182436"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p182436.png">Ben
+Woodburn
+POSITION:Midfielder
+ class="flag GB-WLS"> 
+Wales
+
+
+
+href="//www.premierleague.com/players/10479/Freddie-Woodman/overview"
+"p155503"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p155503.png">Freddie
+Woodman
+Goalkeeper
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/12136/Granit-Xhaka/overview"
+"p84450"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p84450.png">Granit
+Xhaka
+POSITION:Midfielder
+ class="flag CH"> 
+Switzerland
+
+
+
+href="//www.premierleague.com/players/4673/Claudio-Yacob/overview"
+"p55829"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p55829.png">Claudio
+Yacob
+POSITION:Midfielder
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/14626/Josef-Yarney/overview"
+"p183460"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p183460.png">Josef
+Yarney
+POSITION:Defender
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/4148/Yaya-Touré/overview"
+"p14664"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p14664.png">Yaya
+Touré
+POSITION:Midfielder
+ class="flag CI"> 
+Cote D'Ivoire
+
+
+
+href="//www.premierleague.com/players/10522/DeAndre-Yedlin/overview"
+"p151119"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p151119.png">DeAndre
+Yedlin
+POSITION:Defender
+ class="flag US"> 
+United States
+
+
+
+href="//www.premierleague.com/players/4605/Maya-Yoshida/overview"
+"p80447"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p80447.png">Maya
+Yoshida
+POSITION:Defender
+ class="flag JP"> 
+Japan
+
+
+
+href="//www.premierleague.com/players/3062/Ashley-Young/overview"
+"p18892"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p18892.png">Ashley
+Young
+POSITION:Midfielder
+ class="flag GB-ENG"> 
+England
+
+
+
+href="//www.premierleague.com/players/3654/Pablo-Zabaleta/overview"
+"p20658"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p20658.png">Pablo
+Zabaleta
+POSITION:Defender
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/4539/Wilfried-Zaha/overview"
+"p82403"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p82403.png">Wilfried
+Zaha
+POSITION:Midfielder
+ class="flag CI"> 
+Cote D'Ivoire
+
+
+ href="//www.premierleague.com/players/7103/Zanka/overview"
+"p48760"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p48760.png">Zanka
+POSITION:Defender
+ class="flag DK"> 
+Denmark
+
+
+
+href="//www.premierleague.com/players/3338/Mauro-Zárate/overview"
+"p49696"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p49696.png">Mauro
+Zárate
+POSITION:Forward
+ class="flag AR"> 
+Argentina
+
+
+
+href="//www.premierleague.com/players/22547/Zhang-Yuning/overview"
+"p206908"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p206908.png">Zhang
+Yuning
+POSITION:Forward
+ class="flag CN"> 
+China
+
+
+
+href="//www.premierleague.com/players/3662/Ron-Robert-Zieler/overview"
+"p51934"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p51934.png">Ron-Robert
+Zieler
+Goalkeeper
+ class="flag DE"> 
+Germany
+
+
+
+href="//www.premierleague.com/players/19620/Oleksandr-Zinchenko/overview"
+"p206325"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p206325.png">Oleksandr
+Zinchenko
+POSITION:Midfielder
+ class="flag UA"> 
+Ukraine
+
+
+
+href="//www.premierleague.com/players/5175/Kurt-Zouma/overview"
+"p103192"
+
+src="//platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/p103192.png">Kurt
+Zouma
+POSITION:Defender
+ 
+France

@@ -84,7 +84,6 @@ public class GameVO {
 	}
 	@Override
 	public String toString() {
-		return "경기 날짜 : " + game_date + "\n 홈팀 : " + homeTeamName + "\n 어웨이팀 : " + awayTeamName
-				+ "\n 점수  " + homeTeamScore + " : " + awayTeamScore + "<br /> " + "\n 경기장(장소) : " + stadium;
+		return (game_date + " " + stadium  +" "+ homeTeamName +" "+ homeTeamScore + " vs " + awayTeamScore + " " + awayTeamName);
 	}
 }

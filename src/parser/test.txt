@@ -1,0 +1,691 @@
+Player	Position	Nationality
+Rolando Aarons	Midfielder	 England
+Tammy Abraham	Forward	 England
+Charlie Adam	Midfielder	 Scotland
+Adrián	Goalkeeper	 Spain
+Ibrahim Afellay	Midfielder	 Netherlands
+Benik Afobe	Forward	 Congo
+Sergio Agüero	Forward	 Argentina
+Daniel Agyei	Forward	 England
+Soufyan Ahannach	Midfielder	 Netherlands
+Ahmed Hegazi	Defender	 Egypt
+Nathan Aké	Defender	 Netherlands
+Chuba Akpom	Forward	 England
+Marc Albrighton	Midfielder	 England
+Toby Alderweireld	Defender	 Belgium
+Aleix García	Midfielder	 Spain
+Trent Alexander-Arnold	Defender	 England
+Allan	Midfielder	 Brazil
+Joe Allen	Midfielder	 Wales
+Ryan Allsop	Goalkeeper	 England
+Marcos Alonso	Defender	 Spain
+Daniel Amartey	Midfielder	 Ghana
+Jordi Amat	Defender	 Spain
+Sammy Ameobi	Midfielder	 England
+Luke Amos	Midfielder	 England
+Tom Anderson	Defender	 England
+André Ayew	Forward	 Ghana
+Vurnon Anita	Midfielder	 Netherlands
+Michail Antonio	Midfielder	 England
+Antonio Martínez	Forward	 Spain
+Antonio Valencia	Defender	 Ecuador
+Scott Arfield	Midfielder	 Canada
+Giedrius Arlauskis	Goalkeeper	 Lithuania
+Marko Arnautovic	Forward	 Austria
+Harry Arter	Midfielder	 Ireland
+Christian Atsu	Midfielder	 Ghana
+Charlie Austin	Forward	 England
+Ayoze Pérez	Forward	 Spain
+César Azpilicueta	Defender	 Spain
+Daniel Bachmann	Goalkeeper	 Austria
+Eric Bailly	Defender	 Cote D'Ivoire
+Leighton Baines	Defender	 England
+Tiemoué Bakayoko	Midfielder	 France
+Lewis Baker	Midfielder	 England
+Sam Baldock	Forward	 England
+Lewis Banks	Defender	 England
+Phil Bardsley	Defender	 Scotland
+Ross Barkley	Midfielder	 England
+Daniel Barlaser	Midfielder	 England
+Ashley Barnes	Forward	 Austria
+Modou Barrow	Forward	 Gambia
+Gareth Barry	Midfielder	 England
+Kyle Bartley	Defender	 England
+Michy Batshuayi	Forward	 Belgium
+Jan Bednarek	Defender	 Poland
+Asmir Begovic	Goalkeeper	 Bosnia And Herzegovina
+Valon Behrami	Midfielder	 Switzerland
+Héctor Bellerín	Defender	 Spain
+Yasin Ben El-Mhanni	Midfielder	 England
+Yohan Benalouane	Defender	 Tunisia
+Christian Benteke	Forward	 Belgium
+Saido Berahino	Forward	 England
+Johann Berg Gudmundsson	Midfielder	 Iceland
+Steven Berghuis	Forward	 Netherlands
+Bernardo Silva	Midfielder	 Portugal
+Ryan Bertrand	Defender	 England
+Muhamed Besic	Midfielder	 Bosnia And Herzegovina
+Krystian Bielik	Midfielder	 Poland
+Philip Billing	Midfielder	 Denmark
+Mark Birighitti	Goalkeeper	 Australia
+Henrik Rorvik Bjørdal	Midfielder	 Norway
+Daley Blind	Defender	 Netherlands
+Hiram Boateng	Midfielder	 England
+Jeremie Boga	Midfielder	 Cote D'Ivoire
+Adam Bogdan	Goalkeeper	 Hungary
+Bojan	Midfielder	 Spain
+Yannick Bolasie	Forward	 Congo
+Gaëtan Bong	Defender	 Cameroon
+Wilfried Bony	Forward	 Cote D'Ivoire
+Regan Booty	Midfielder	 England
+Borja Bastón	Forward	 Spain
+Cameron Borthwick-Jackson	Defender	
+Artur Boruc	Goalkeeper	 Poland
+Sofiane Boufal	Midfielder	 Morocco
+George Boyd	Midfielder	 Scotland
+Brad Smith	Defender	 Australia
+Robbie Brady	Midfielder	 Ireland
+Cohen Bramall	Defender	 England
+Cameron Brannagan	Midfielder	 England
+Claudio Bravo	Goalkeeper	 Chile
+Rhian Brewster	Forward	 England
+Miguel Britos	Defender	 Uruguay
+Leon Britton	Midfielder	 England
+Isaiah Brown	Forward	 England
+Marcus Browne	Midfielder	 England
+Bruno	Defender	 Spain
+Chris Brunt	Midfielder	 Northern Ireland
+Marcin Bulka	Goalkeeper	 Poland
+Harry Bunn	Forward	 England
+Reece Burke	Defender	 England
+Matt Butcher	Defender	 England
+Jack Butland	Goalkeeper	 England
+Sam Byram	Defender	 England
+Willy Caballero	Goalkeeper	 Argentina
+Yohan Cabaye	Midfielder	 France
+Tom Cadman	Defender	 Ireland
+Gary Cahill	Defender	 England
+Dominic Calvert-Lewin	Forward	 England
+Geoff Cameron	Defender	 United States
+Joel Campbell	Forward	 Costa Rica
+Emre Can	Midfielder	 Germany
+Etienne Capoue	Midfielder	 France
+Baily Cargill	Defender	 England
+Michael Carrick	Midfielder	 England
+Tom Carroll	Midfielder	 England
+Cameron Carter-Vickers	Defender	 United States
+Craig Cathcart	Defender	 Northern Ireland
+Santiago Cazorla	Midfielder	 Spain
+Petr Cech	Goalkeeper	 Czech Republic
+Cédric Soares	Defender	 Portugal
+Nacer Chadli	Midfielder	 Belgium
+Nathaniel Chalobah	Midfielder	 England
+Calum Chambers	Defender	 England
+Chicharito	Forward	 Mexico
+Ben Chilwell	Defender	 England
+Pedro Chirivella	Midfielder	 Spain
+Eric Maxim Choupo-Moting	Midfielder	 Cameroon
+Andreas Christensen	Defender	 Denmark
+Ciaran Clark	Defender	 Ireland
+Jake Clarke-Salter	Defender	 England
+Jordy Clasie	Midfielder	 Netherlands
+Tom Cleverley	Midfielder	 England
+Nathaniel Clyne	Defender	 England
+Luke Coddington	Goalkeeper	 England
+Jack Colback	Midfielder	 England
+Seamus Coleman	Defender	 Ireland
+James Collins	Defender	 Wales
+Francis Coquelin	Midfielder	 France
+Jack Cork	Midfielder	 England
+Thibaut Courtois	Goalkeeper	 Belgium
+Philippe Coutinho	Midfielder	 Brazil
+Martin Cranie	Defender	 England
+Aaron Cresswell	Defender	 England
+Peter Crouch	Forward	 England
+Cuco Martina	Defender	 Curacao
+Cristián Cuevas	Defender	 Chile
+Charlie Daniels	Defender	 England
+Danilo	Defender	 Brazil
+Scott Dann	Defender	 England
+Danny Ings	Forward	 England
+Tendayi Darikwa	Defender	 England
+Karl Darlow	Goalkeeper	 England
+Matteo Darmian	Defender	 Italy
+David Luiz	Defender	 Brazil
+Jason Davidson	Defender	 Australia
+Tom Davies	Midfielder	 England
+Steven Davis	Midfielder	 Northern Ireland
+Craig Dawson	Defender	 England
+Kevin De Bruyne	Midfielder	 Belgium
+David de Gea	Goalkeeper	 Spain
+Siem de Jong	Midfielder	 Netherlands
+Zachary Dearnley	Midfielder	 England
+Mathieu Debuchy	Defender	 France
+Troy Deeney	Forward	 England
+Jermain Defoe	Forward	 England
+Steven Defour	Midfielder	 Belgium
+Damien Delaney	Defender	 Ireland
+Dele Alli	Midfielder	 England
+Fabian Delph	Midfielder	 England
+Mousa Dembélé	Midfielder	 Belgium
+Jason Denayer	Defender	 Belgium
+Laurent Depoitre	Forward	 Belgium
+Mohamed Diamé	Midfielder	 Senegal
+Grady Diangana	Midfielder	 England
+Brahim Diaz	Midfielder	 Spain
+Diego Costa	Forward	 Spain
+Eric Dier	Midfielder	 England
+Mame Biram Diouf	Forward	 Senegal
+Brice Dja Djédjé	Defender	 Cote D'Ivoire
+Abdoulaye Doucouré	Midfielder	 France
+Luke Dreher	Midfielder	 England
+Daniel Drinkwater	Midfielder	 England
+Shane Duffy	Defender	 Ireland
+Demeaco Duhaney	Defender	 England
+Paul Dummett	Defender	 Wales
+Lewis Dunk	Defender	 England
+Nathan Dyer	Midfielder	 England
+Eddie Nketiah	Forward	 England
+Ederson	Goalkeeper	 Brazil
+Eduardo	Goalkeeper	 Portugal
+Thomas Edwards	Defender	 England
+Callum Elder	Defender	 Australia
+Andrew Eleftheriou	Defender	 England
+Robert Elliot	Goalkeeper	 Ireland
+Mohamed Elneny	Midfielder	 Egypt
+Emiliano Martinez	Goalkeeper	 Argentina
+Emmanuel Rivière	Forward	 France
+Christian Eriksen	Midfielder	 Denmark
+Jonny Evans	Defender	 Northern Ireland
+Lukasz Fabianski	Goalkeeper	 Poland
+Cesc Fàbregas	Midfielder	 Spain
+Adam Federici	Goalkeeper	 Australia
+Federico Fernández	Defender	 Argentina
+Sofiane Feghouli	Midfielder	 Algeria
+Marouane Fellaini	Midfielder	 Belgium
+Leroy Fer	Midfielder	 Netherlands
+Edimilson Fernandes	Midfielder	 Switzerland
+Fernandinho	Midfielder	 Brazil
+Fernando	Midfielder	 Brazil
+Sam Field	Midfielder	 England
+Stuart Findlay	Defender	 Scotland
+Jon Flanagan	Defender	 England
+Darren Fletcher	Midfielder	 Scotland
+Phil Foden	Forward	 England
+Michael Folivi	Forward	 England
+Fraser Forster	Goalkeeper	 England
+Ben Foster	Goalkeeper	 England
+Timothy Fosu-Mensah	Defender	 Netherlands
+Simon Francis	Defender	 England
+Ryan Fraser	Midfielder	 Scotland
+Freddie Ladapo	Forward	 England
+Christian Fuchs	Defender	 Austria
+Jay Fulton	Midfielder	 Scotland
+Ramiro Funes Mori	Defender	 Argentina
+Manolo Gabbiadini	Forward	 Italy
+Gabriel	Defender	 Brazil
+Gabriel Jesus	Forward	 Brazil
+Sam Gallagher	Forward	 England
+Florin Gardos	Defender	 Romania
+Dwight Gayle	Forward	 England
+Paulo Gazzaniga	Goalkeeper	 Argentina
+Anthony Georgiou	Midfielder	 England
+Kieran Gibbs	Defender	 England
+Olivier Giroud	Forward	 France
+Connor Goldson	Defender	 England
+Angel Gomes	Midfielder	 England
+Joseph Gomez	Defender	 England
+Curtis Good	Defender	 Australia
+Dan Gosling	Midfielder	 England
+Yoan Gouffran	Midfielder	 France
+Kamil Grabara	Goalkeeper	 Poland
+Lewis Grabban	Forward	 England
+Max Gradel	Forward	 Cote D'Ivoire
+Lee Grant	Goalkeeper	 England
+Andre Gray	Forward	 England
+Matt Grimes	Midfielder	 England
+Daniel Grimshaw	Goalkeeper	 England
+Pascal Groß	Midfielder	 Germany
+Marko Grujic	Midfielder	 Serbia
+Idrissa Gueye	Midfielder	 Senegal
+Ilkay Gündogan	Midfielder	 Germany
+Daniel Gyollai	Goalkeeper	 Hungary
+Massadio Haidara	Defender	 France
+Ben Hamer	Goalkeeper	 England
+Grant Hanley	Defender	 Scotland
+Rekeem Harper	Midfielder	 England
+Joe Hart	Goalkeeper	 England
+Jakob Haugaard	Goalkeeper	 Denmark
+Isaac Hayden	Midfielder	 England
+Eden Hazard	Midfielder	 Belgium
+Tom Heaton	Goalkeeper	 England
+Michael Hefele	Defender	 Germany
+Tomer Hemed	Forward	 Israel
+Jordan Henderson	Midfielder	 England
+Jeff Hendrick	Midfielder	 Ireland
+Wayne Hennessey	Goalkeeper	 Wales
+Doneil Henry	Defender	 Canada
+Ander Herrera	Midfielder	 Spain
+Jake Hesketh	Midfielder	 England
+Mateusz Hewelt	Goalkeeper	 Poland
+Ryan Hill	Midfielder	 England
+Jordy Hiwula-Mayifuila	Forward	 England
+Tommie Hoban	Defender	 Ireland
+Jonathan Hogg	Midfielder	 England
+Rob Holding	Defender	 England
+José Holebas	Defender	 Greece
+Mason Holgate	Defender	 England
+Nathan Holland	Midfielder	 England
+Jordan Holmes	Goalkeeper	 Australia
+Tareiq Holmes-Dennis	Defender	 England
+Mark Hudson	Defender	 England
+Will Hughes	Midfielder	 England
+Uwe Hünemeier	Defender	 Germany
+Robert Huth	Defender	 Germany
+Emerson Hyndman	Midfielder	 United States
+Pierre-Emile Højbjerg	Midfielder	 Denmark
+Jordon Ibe	Midfielder	 England
+Vicente Iborra	Midfielder	 Spain
+Kelechi Iheanacho	Forward	 Nigeria
+Giannelli Imbula	Midfielder	 France
+Rohan Ince	Midfielder	 England
+Stephen Ireland	Midfielder	 Ireland
+Isaac Success	Forward	 Nigeria
+Alex Iwobi	Midfielder	 Nigeria
+Brad Jackson	Midfielder	 England
+Jacob Murphy	Midfielder	 England
+Phil Jagielka	Defender	 England
+Eldin Jakupovic	Goalkeeper	 Switzerland
+Matty James	Midfielder	 England
+Daryl Janmaat	Defender	 Netherlands
+Vincent Janssen	Forward	 Netherlands
+Adnan Januzaj	Midfielder	 Belgium
+Carl Jenkinson	Defender	 England
+Jesús Gámez	Defender	 Spain
+Joe Willock	Midfielder	 England
+Joel Pereira	Goalkeeper	 Portugal
+Darnell Johnson	Defender	 England
+Sam Johnstone	Goalkeeper	 England
+Jonathan Dinzeyi	Defender	 England
+Phil Jones	Defender	 England
+Corey Jordan	Defender	 England
+Jordan Ayew	Forward	 Ghana
+José Fonte	Defender	 Portugal
+José Izquierdo	Forward	 Colombia
+Joselu	Forward	 Spain
+Josh Da Silva	Forward	 England
+Josh Sims	Midfielder	 England
+Christian Kabasele	Defender	 Belgium
+Younes Kaboul	Defender	 France
+Elias Kachunga	Forward	 Congo
+Sullay Kaikai	Midfielder	 England
+Tomas Kalas	Defender	 Czech Republic
+Harry Kane	Forward	 England
+N'Golo Kanté	Midfielder	 France
+Bartosz Kapustka	Midfielder	 Poland
+Loris Karius	Goalkeeper	 Germany
+Beram Kayal	Midfielder	 Israel
+Michael Keane	Defender	 England
+Martin Kelly	Defender	 England
+Daniel Kemp	Midfielder	 England
+Kenedy	Midfielder	 Brazil
+Jonjoe Kenny	Defender	 England
+Ryan Kent	Midfielder	 England
+Ki Sung-yueng	Midfielder	 South Korea
+Kiko Femenía	Defender	 Spain
+Joshua King	Forward	 Norway
+Stephen Kingsley	Defender	 Scotland
+Nya Kirby	Midfielder	 England
+Davy Klaassen	Midfielder	 Netherlands
+Ragnar Klavan	Defender	 Estonia
+Anthony Knockaert	Midfielder	 France
+Aleksandar Kolarov	Defender	 Serbia
+Sead Kolasinac	Defender	 Bosnia And Herzegovina
+Vincent Kompany	Defender	 Belgium
+Laurent Koscielny	Defender	 France
+Cheikhou Kouyaté	Midfielder	 Senegal
+Tim Krul	Goalkeeper	 Netherlands
+Alexandre Lacazette	Forward	 France
+Adam Lallana	Midfielder	 England
+Erik Lamela	Midfielder	 Argentina
+Manuel Lanzini	Midfielder	 Argentina
+Jamaal Lascelles	Defender	 England
+Joel Latibeaudiere	Defender	 England
+Tom Lawrence	Forward	 Wales
+Achraf Lazaar	Defender	 Morocco
+Lee Chung-yong	Midfielder	 South Korea
+Adam Legzdins	Goalkeeper	 England
+Florian Lejeune	Defender	 France
+Jonathan Leko	Midfielder	 England
+Mario Lemina	Midfielder	 Gabon
+Aaron Lennon	Midfielder	 England
+Filip Lesniak	Midfielder	 Slovakia
+Harry Lewis	Goalkeeper	 England
+Lewis Cook	Midfielder	 England
+Victor Lindelöf	Defender	 Sweden
+Jesse Lingard	Midfielder	 England
+Jake Livermore	Midfielder	 England
+Fernando Llorente	Forward	 Spain
+Hugo Lloris	Goalkeeper	 France
+Ruben Loftus-Cheek	Midfielder	 England
+Joe Lolley	Midfielder	 England
+Kevin Long	Defender	 Ireland
+Ademola Lookman	Forward	 England
+Jonas Lössl	Goalkeeper	 Denmark
+Dejan Lovren	Defender	 Croatia
+Chris Löwe	Defender	 Germany
+Matthew Lowton	Defender	 England
+Kazenga Lua Lua	Midfielder	 Congo
+Lucas Leiva	Midfielder	 Brazil
+Lucas Pérez	Forward	 Spain
+Romelu Lukaku	Forward	 Belgium
+Matt Macey	Goalkeeper	 England
+Niki Mäenpää	Goalkeeper	 Finland
+Pablo Maffeo	Defender	 Spain
+Harry Maguire	Defender	 England
+Connor Mahoney	Midfielder	 England
+Riyad Mahrez	Midfielder	 Algeria
+Ainsley Maitland-Niles	Midfielder	 England
+Moses Makasi	Midfielder	 England
+Donyell Malen	Forward	 Netherlands
+Scott Malone	Defender	 England
+Steve Mandanda	Goalkeeper	 France
+Sadio Mané	Midfielder	 Senegal
+Eliaquim Mangala	Defender	 France
+Javier Manquillo	Defender	 Spain
+Elvis Manu	Forward	 Ghana
+Marc Wilson	Defender	 Ireland
+Adrian Mariappa	Defender	 Jamaica
+Lazar Markovic	Midfielder	 Serbia
+Dean Marney	Midfielder	 England
+Anthony Martial	Forward	 France
+Bruno Martins Indi	Defender	 Netherlands
+Brandon Mason	Defender	 England
+Ntumba Massanka	Forward	 England
+Arthur Masuaku	Defender	 France
+Mat Ryan	Goalkeeper	 Australia
+Juan Mata	Midfielder	 Spain
+Ales Mateju	Defender	 Czech Republic
+Mathias Normann	Midfielder	 Norway
+Nemanja Matic	Midfielder	 Serbia
+Joel Matip	Defender	 Cameroon
+Matt Worthington	Midfielder	 England
+Alfie Mawson	Defender	 England
+Kevin Mbabu	Defender	 Switzerland
+Chancel Mbemba	Defender	 Congo
+James McArthur	Midfielder	 Scotland
+Gareth McAuley	Defender	 Northern Ireland
+Oliver McBurnie	Forward	 Scotland
+James McCarthy	Midfielder	 Ireland
+James McClean	Midfielder	 Ireland
+Callum McManaman	Midfielder	 England
+Sam McQueen	Midfielder	 England
+Scott McTominay	Midfielder	 England
+Ben Mee	Defender	 England
+Max Melbourne	Defender	 England
+Nampalys Mendy	Midfielder	 France
+Mikel Merino	Midfielder	 Spain
+Per Mertesacker	Defender	 Germany
+Roque Mesa	Midfielder	 Spain
+Matt Miazga	Defender	 United States
+Simon Mignolet	Goalkeeper	 Belgium
+Luka Milivojevic	Midfielder	 Serbia
+James Milner	Defender	 England
+Tyrone Mings	Defender	 England
+Kevin Mirallas	Midfielder	 Belgium
+Demetri Mitchell	Defender	 England
+Aleksandar Mitrovic	Forward	 Serbia
+Henrikh Mkhitaryan	Midfielder	 Armenia
+Moha	Midfielder	 Morocco
+Nacho Monreal	Defender	 Spain
+Jefferson Montero	Midfielder	 Ecuador
+Elliott Moore	Defender	 England
+Aaron Mooy	Midfielder	 Australia
+Álvaro Morata	Forward	 Spain
+Alberto Moreno	Defender	 Spain
+Wes Morgan	Defender	 Jamaica
+James Morrison	Midfielder	 Scotland
+Victor Moses	Midfielder	 Nigeria
+Steve Mounie	Forward	 Benin
+Lys Mousset	Forward	 France
+Erwin Mulder	Goalkeeper	 Netherlands
+Marc Muniesa	Defender	 Spain
+Arijanet Muric	Goalkeeper	 Switzerland
+Jamie Murphy	Midfielder	 Scotland
+Glenn Murray	Forward	 England
+Ahmed Musa	Forward	 Nigeria
+Charly Musonda	Midfielder	 Belgium
+Shkodran Mustafi	Defender	 Germany
+Jordon Mutch	Midfielder	 England
+Boaz Myhill	Goalkeeper	 Wales
+Clinton N'Jie	Forward	 Cameroon
+Luciano Narsingh	Midfielder	 Netherlands
+Samir Nasri	Midfielder	 France
+Kyle Naughton	Defender	 England
+Layton Ndukwu	Defender	 England
+Reiss Nelson	Forward	 England
+Julien Ngoy	Forward	 Belgium
+Oumar Niasse	Forward	 Senegal
+Georges-Kévin Nkoudou	Midfielder	 France
+Mark Noble	Midfielder	 England
+Nolito	Forward	 Spain
+Kristoffer Nordfeldt	Goalkeeper	 Sweden
+Nordin Amrabat	Midfielder	 Morocco
+Oliver Norwood	Midfielder	 Northern Ireland
+Nyom	Defender	 Cameroon
+Keelan O'Connell	Midfielder	 England
+Stefan O'Connor	Defender	 England
+Kieran O'Hara	Goalkeeper	 Ireland
+Aiden O'Neill	Midfielder	 Australia
+Dara O'Shea	Defender	 Ireland
+Tashan Oakley-Boothe	Midfielder	 England
+Pedro Obiang	Midfielder	 Spain
+Angelo Ogbonna	Defender	 Italy
+Stefano Okaka	Forward	 Italy
+Shinji Okazaki	Forward	 Japan
+Ola Aina	Defender	 Nigeria
+Ollie Harfield	Defender	 England
+Olufela Olomola	Forward	 England
+Martin Olsson	Defender	 Sweden
+Josh Onomah	Midfielder	 England
+Henry Onyekuru	Forward	 Nigeria
+Divock Origi	Forward	 Belgium
+Oriol Romeu	Midfielder	 Spain
+David Ospina	Goalkeeper	 Colombia
+Nicolás Otamendi	Defender	 Argentina
+Ovie Ejaria	Midfielder	 England
+Alex Oxlade-Chamberlain	Midfielder	 England
+Mesut Özil	Midfielder	 Germany
+Kasey Palmer	Midfielder	 England
+Costel Pantilimon	Goalkeeper	 Romania
+Juan Carlos Paredes	Defender	 Ecuador
+Mario Pasalic	Midfielder	 Croatia
+Patrick Roberts	Midfielder	 England
+Paulinho	Midfielder	 Portugal
+Jack Payne	Midfielder	 England
+Pedro	Forward	 Spain
+Adalberto Peñaranda	Forward	 Venezuela
+Matthew Pennington	Defender	 England
+Andreas Pereira	Midfielder	 Brazil
+Roberto Pereyra	Midfielder	 Argentina
+Kleton Perntreou	Goalkeeper	 Greece
+Michael Phillips	Defender	 England
+Jordan Pickford	Goalkeeper	 England
+Jérémy Pied	Defender	 France
+Erik Pieters	Defender	 Netherlands
+Paul Pogba	Midfielder	 France
+Nick Pope	Goalkeeper	 England
+Sebastian Prödl	Defender	 Austria
+Davy Pröpper	Midfielder	 Netherlands
+Marc Pugh	Midfielder	 England
+Jason Puncheon	Midfielder	 England
+Collin Quaner	Forward	 Germany
+Domingos Quina	Midfielder	 Portugal
+Ramadan Sobhi	Midfielder	 Egypt
+Sandro Ramírez	Forward	 Spain
+Aaron Ramsdale	Goalkeeper	 England
+Aaron Ramsey	Midfielder	 Wales
+Connor Randall	Defender	 England
+Darren Randolph	Goalkeeper	 Ireland
+Angel Rangel	Defender	 Spain
+Marcus Rashford	Forward	 England
+Nathan Redmond	Midfielder	 England
+Harrison Reed	Midfielder	 England
+Winston Reid	Defender	 New Zealand
+Jeff Reine-Adelaide	Midfielder	 France
+Loïc Remy	Forward	 France
+Declan Rice	Midfielder	 Ireland
+Richarlison	Forward	 Brazil
+Jairo Riedewald	Defender	 Netherlands
+Matt Ritchie	Midfielder	 Scotland
+Rob Hunt	Defender	 England
+Roberto Firmino	Forward	 Brazil
+Connor Roberts	Defender	 Wales
+Andrew Robertson	Defender	 Scotland
+Paul Robinson	Goalkeeper	 England
+Joel Robles	Goalkeeper	 Spain
+Hal Robson-Kanu	Forward	 Wales
+Jay Rodriguez	Forward	 England
+Marcos Rojo	Defender	 Argentina
+Sergio Romero	Goalkeeper	 Argentina
+Salomón Rondón	Forward	 Venezuela
+Wayne Rooney	Forward	 England
+Danny Rose	Defender	 England
+Liam Rosenior	Defender	 England
+Wayne Routledge	Midfielder	 England
+Charlie Rowan	Defender	 England
+Antonio Rüdiger	Defender	 Germany
+Henri Saivet	Midfielder	 Senegal
+Mamadou Sakho	Defender	 France
+Bakary Sako	Midfielder	 Mali
+Mohamed Salah	Forward	 Egypt
+Alexis Sánchez	Forward	 Chile
+Jadon Sancho	Midfielder	 England
+Leroy Sané	Midfielder	 Germany
+Sean Scannell	Midfielder	 Ireland
+Christopher Schindler	Defender	 Germany
+Jeffrey Schlupp	Midfielder	 Ghana
+Kasper Schmeichel	Goalkeeper	 Denmark
+Morgan Schneiderlin	Midfielder	 France
+Ryan Schofield	Goalkeeper	 England
+Kyle Scott	Midfielder	 United States
+Jorge Segura	Defender	 Colombia
+Matz Sels	Goalkeeper	 Belgium
+Xherdan Shaqiri	Midfielder	 Switzerland
+Samuel Shashoua	Forward	 England
+Luke Shaw	Defender	 England
+Ryan Shawcross	Defender	 England
+Ben Sheaf	Midfielder	 England
+Jonjo Shelvey	Midfielder	 England
+Oliver Shenton	Midfielder	 England
+Sheyi Ojo	Midfielder	 England
+Steve Sidwell	Midfielder	 England
+Gylfi Sigurdsson	Midfielder	 Iceland
+David Silva	Midfielder	 Spain
+Jack Simpson	Defender	 England
+Jerome Sinclair	Forward	 England
+Moussa Sissoko	Midfielder	 France
+Jiri Skalak	Midfielder	 Czech Republic
+Islam Slimani	Forward	 Algeria
+Chris Smalling	Defender	 England
+Adam Smith	Defender	 England
+Robert Snodgrass	Midfielder	 Scotland
+Rubén Sobrino	Forward	 Spain
+Dominic Solanke	Forward	 England
+Solly March	Midfielder	 England
+Son Heung-Min	Midfielder	 South Korea
+Pape Souaré	Defender	 Senegal
+Harry Souttar	Defender	 Scotland
+Julian Speroni	Goalkeeper	 Argentina
+Raphael Spiegel	Goalkeeper	 Switzerland
+Junior Stanislas	Midfielder	 England
+Jon Gorenc Stankovic	Defender	 Slovenia
+Maarten Stekelenburg	Goalkeeper	 Netherlands
+Dale Stephens	Midfielder	 England
+Raheem Sterling	Forward	 England
+Jamie Sterry	Defender	 England
+Steve Cook	Defender	 England
+Kevin Stewart	Midfielder	 England
+John Stones	Defender	 England
+Stuart Taylor	Goalkeeper	 England
+Daniel Sturridge	Forward	 England
+Mario Suárez	Midfielder	 Spain
+Andrew Surman	Midfielder	 England
+Sam Surridge	Forward	 England
+Markus Suttner	Defender	 Austria
+Ryan Sweeney	Defender	 England
+Wojciech Szczesny	Goalkeeper	 Poland
+Dusan Tadic	Midfielder	 Serbia
+Matt Targett	Defender	 England
+James Tarkowski	Defender	 England
+Kyle Taylor	Midfielder	 England
+James Tilley	Forward	 England
+James Tomkins	Defender	 England
+Fikayo Tomori	Defender	 England
+Tosin Adarabioyo	Defender	 England
+Richard Towell	Forward	 Ireland
+Andros Townsend	Midfielder	 England
+Kieran Trippier	Defender	 England
+Axel Tuanzebe	Defender	 England
+Josh Tymon	Defender	 England
+Leonardo Ulloa	Forward	 Argentina
+Fredrik Ulvestad	Midfielder	 Norway
+Enner Valencia	Forward	 Ecuador
+Patrick van Aanholt	Defender	 Netherlands
+Mike van der Hoorn	Defender	 Netherlands
+Virgil van Dijk	Defender	 Netherlands
+Rajiv van La Parra	Midfielder	 Netherlands
+Jamie Vardy	Forward	 England
+Guillermo Varela	Defender	 Uruguay
+Thibaud Verlinden	Forward	 Belgium
+Jan Vertonghen	Defender	 Belgium
+Sam Vokes	Forward	 Wales
+Michel Vorm	Goalkeeper	 Netherlands
+Mark Waddington	Midfielder	 England
+Theo Walcott	Forward	 England
+Kyle Walker	Defender	 England
+Kyle Walker-Peters	Defender	 England
+Jonathan Walters	Forward	 Ireland
+Christian Walton	Goalkeeper	 England
+Aaron Wan-Bissaka	Midfielder	 England
+Victor Wanyama	Midfielder	 Kenya
+Stephen Ward	Defender	 Ireland
+James Ward-Prowse	Midfielder	 England
+Ben Watson	Midfielder	 England
+Danny Welbeck	Forward	 England
+Nahki Wells	Forward	 Bermuda
+Ashley Westwood	Midfielder	 England
+Glenn Whelan	Midfielder	 Ireland
+Ben White	Defender	 England
+Dean Whitehead	Midfielder	 England
+Alfie Whiteman	Goalkeeper	 England
+Connor Wickham	Forward	 England
+Rhoys Wiggins	Defender	 Wales
+Georginio Wijnaldum	Midfielder	 Netherlands
+Wilfred Ndidi	Midfielder	 Nigeria
+Will Miller	Midfielder	 England
+Jonathan Williams	Midfielder	 Wales
+Willian	Midfielder	 Brazil
+Matthew Willock	Midfielder	 England
+Jack Wilshere	Midfielder	 England
+Callum Wilson	Forward	 England
+Kevin Wimmer	Defender	 Austria
+Harry Winks	Midfielder	 England
+Philipp Wollscheid	Defender	 Germany
+Ben Woodburn	Midfielder	 Wales
+Freddie Woodman	Goalkeeper	 England
+Granit Xhaka	Midfielder	 Switzerland
+Claudio Yacob	Midfielder	 Argentina
+Josef Yarney	Defender	 England
+Yaya Touré	Midfielder	 Cote D'Ivoire
+DeAndre Yedlin	Defender	 United States
+Maya Yoshida	Defender	 Japan
+Ashley Young	Midfielder	 England
+Pablo Zabaleta	Defender	 Argentina
+Wilfried Zaha	Midfielder	 Cote D'Ivoire
+Zanka	Defender	 Denmark
+Mauro Zárate	Forward	 Argentina
+Zhang Yuning	Forward	 China
+Ron-Robert Zieler	Goalkeeper	 Germany
+Oleksandr Zinchenko	Midfielder	 Ukraine
+Kurt Zouma	Defender	 France
