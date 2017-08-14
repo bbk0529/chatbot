@@ -57,9 +57,9 @@ $(function(){
 		</div>
 	</div>
 	<div class="row" style="background-image:url('/resources/img/banner.jpg');">
-			<div class="col-sm-1" style="background-color:rgba(70,70,70,0.7);height:700px"></div>
-			<div class="col-sm-1" style="background-color:rgba(80,80,80,0.7);height:700px"></div>
-			<div id="chatList" class="col-sm-10" style="background-color:rgba(100,100,100,0.7);height:700px;overflow:auto;);"></div>
+			<div class="col-sm-1" style="background-color:rgba(70,70,70,0.7);height:500px"></div>
+			<div class="col-sm-1" style="background-color:rgba(80,80,80,0.7);height:500px"></div>
+			<div id="chatList" class="col-sm-10" style="background-color:rgba(100,100,100,0.7);height:500px;overflow:auto;);"></div>
 			<div class="col-sm-12" style="background-color:rgba(10,10,10,0.9);">
 				<input type="text" id="msg" class="triangle-border center" autofocus> 
 			</div>

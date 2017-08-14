@@ -27,6 +27,8 @@ public class IntentParser {
 	public String[]  crawlerParser(String msg) throws Exception {
 		System.out.println(msg.indexOf("년"));
 		System.out.println(msg.indexOf("월"));
+		try {
+		
 		int guide_year = msg.indexOf("년");
 		int guide_month = msg.indexOf("월");
 		
@@ -34,6 +36,11 @@ public class IntentParser {
 		String month = msg.substring(guide_year+1, guide_month).trim();
 		String [] yearmonth = {year,month};
 		return yearmonth;
+		} catch (Exception e) {
+			throw new Exception ("형식이 잘못되었습니다. \"YYYY년 MM월 경기일정\"의 형태로 입력해주세요. ");
+		}
+		
+		
 	}
 	
 	public String detailParser() throws ClassNotFoundException, SQLException{
