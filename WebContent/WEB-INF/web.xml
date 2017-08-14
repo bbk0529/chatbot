@@ -22,16 +22,4 @@
 		<filter-name>character encoding</filter-name>
 		<url-pattern>/*</url-pattern>
 	</filter-mapping>
-
-<!-- FrontController -->
-	<servlet>
-		<servlet-name>dispatcher</servlet-name>
-		<servlet-class>controllers.Dispatcher</servlet-class>
-	</servlet>
-	<servlet-mapping>
-		<servlet-name>dispatcher</servlet-name>
-		<url-pattern>/controllers/*</url-pattern>
-	</servlet-mapping>	
-	
-	
 </web-app>

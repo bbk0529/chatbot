@@ -33,8 +33,8 @@ public class AnswerProfile {
 		
 		if (list.size()==1) {
 			stringBuffer.append("<img src='http://platform-static-files.s3.amazonaws.com/premierleague/photos/players/40x40/" + list.get(0)[2] + ".png'>");
-			stringBuffer.append(list.get(0)[1] + " " +  list.get(0)[5]);
-			stringBuffer.append(list.get(0)[4] +  " " + list.get(0)[3]);
+			stringBuffer.append("<b style='font-size:60px'>" + list.get(0)[1] + "</b></br>" +  list.get(0)[5] );
+			stringBuffer.append(" " +list.get(0)[4] +  " " + list.get(0)[3] + " ");
 			
 			map=driver_Profile.profileDetail(list.get(0));
 			for (String keymap : map.keySet() ) {
@@ -42,10 +42,10 @@ public class AnswerProfile {
 			}
 			
 			map=driver_Player.playerDetail(list.get(0)[0]);
+			int count=0;
 			stringBuffer.append("<div class='row'>");
 			stringBuffer.append("<div class='col-sm-10'>");
 			stringBuffer.append("<table class='table' style='color:white;' align='center'><tr>");
-			int count=0;
 			for (String keymap : map.keySet() ) {
 				count++;
 				stringBuffer.append("<td><b>"+  keymap  +"</b></td><td style='color:white;text-align:right'>" +  map.get(keymap) + "</td>");
@@ -55,10 +55,10 @@ public class AnswerProfile {
 			stringBuffer.append("</div>");
 			stringBuffer.append("</div>");
 		} else {
-			stringBuffer.append("검색어로 확인된 선수가 2명 이상 있습니다.<br/>");
 			for (int i=0; i<list.size(); i++){
-				stringBuffer.append(list.get(i)[1] + "<br/>");
+				stringBuffer.append(list.get(i)[1] +" " + list.get(i)[5] + "<br/>");
 			}
+			stringBuffer.append("검색어로 확인된 선수가 " + list.size() + "명 있습니다. 이름을 좀 더 정확히 넣어주세요.<br/>");
 		}
 		return stringBuffer.toString();
 	}
