@@ -80,6 +80,7 @@ public class Dispatcher extends HttpServlet {
 			for(String key : mav.getModel().keySet()){
 				request.setAttribute(key, mav.getModel().get(key)); // 전달해주는 객체 instance 등 담기
 			}
+			request.setAttribute("test", "Test message");
 			RequestDispatcher dispatcher = 	request.getRequestDispatcher(mav.getViewName()); // 이동할 위치  
 			dispatcher.forward(request, response);
 			return;

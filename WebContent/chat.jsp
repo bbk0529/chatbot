@@ -19,18 +19,17 @@ $(function(){
 	        		alert('값을 입력하셔야됩니다.');
 	        	} else {
 	        	   	$('#chatList').append('<p class="triangle-right right">' + $("#msg").val()  + '</p>');
-	        		$('#chatList').scrollTop($('#chatList').prop('scrollHeight'));
-	        		$.post("/controller/coordinator.jsp",{msg:$('#msg').val()})
+	        		$.post("./controller/coordi.jsp",{msg:$('#msg').val()})
 					.done(function(data) {
-						$('#chatList').append('<p class="triangle-right left">' + data  + '</p>');
-						$('#chatList').scrollTop($('#chatList').prop('scrollHeight'));
+								$('#chatList').append('<p class="triangle-right left">' + data  + '</p>');
+								$('#chatList').scrollTop($('#chatList').prop('scrollHeight')); 
 					});
 					$('#msg').val('');
-					document.body.scrollTop = document.body.scrollHeight;
 	        	}
 	        }
 	    });
 });
+
 </script>
 <meta charset="UTF-8">
 <title> WATSON CONVERSATION </title>

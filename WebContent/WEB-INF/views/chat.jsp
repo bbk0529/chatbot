@@ -15,7 +15,6 @@ $(function(){
 	$('#chatList').append('<p class="triangle-right left">' + '소피입니다. 팀과 선수와 관련된 질문을 해 주세요. ' + '</p>');
 	$("#msg").keypress(function (e) {
 	        if (e.which == 13){
-	        	
 	        	if ($("#msg").val()=='') {
 	        		alert('값을 입력하셔야됩니다.');
 	        	} else {
@@ -24,18 +23,16 @@ $(function(){
 	        		$.post("coordinator",{msg:$('#msg').val()})
 					.done(function(data) {
 						$('#chatList').append('<p class="triangle-right left">' + data  + '</p>');
+						$('#chatList').append('<p class="triangle-right left">' + ${message}  + '</p>');
+						$('#chatList').append('<p class="triangle-right left">' + ${test}  + '</p>');
 						$('#chatList').scrollTop($('#chatList').prop('scrollHeight'));
 					});
 					$('#msg').val('');
 					document.body.scrollTop = document.body.scrollHeight;
-					
-
 					/* $.post("imagecrawer.jsp",{player:'손흥민'})
 					.done(function(data) {
 						$('#chatList').append('<img src='+ data + '/>');
 					});  */
-					
-					
 	        	}
 	        }
 	    });

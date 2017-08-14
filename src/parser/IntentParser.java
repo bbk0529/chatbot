@@ -24,7 +24,7 @@ public class IntentParser {
 	  	System.out.println("TOKENED PLAYER_NAME : "+ target); 
 	}*/
 	
-	public String[]  crawlerParser(String msg) {
+	public String[]  crawlerParser(String msg) throws Exception {
 		System.out.println(msg.indexOf("년"));
 		System.out.println(msg.indexOf("월"));
 		int guide_year = msg.indexOf("년");
@@ -34,7 +34,6 @@ public class IntentParser {
 		String month = msg.substring(guide_year+1, guide_month).trim();
 		String [] yearmonth = {year,month};
 		return yearmonth;
-		//return null;
 	}
 	
 	public String detailParser() throws ClassNotFoundException, SQLException{

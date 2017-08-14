@@ -1,6 +1,7 @@
-<%@page import="test.DateTest"%>
 <%@page import="answer.AnswerProfile"%>
+<%@page import="test.DateTest"%>
 <%@page import="answer.AnswerSchedule"%>
+<%@page import="java.util.List"%>
 <%@ page language="java" contentType="text/plain; charset=UTF-8" pageEncoding="UTF-8"%>
 <%
 
@@ -13,6 +14,8 @@
 	} catch(Exception e) {} 
  */
 	String msg=request.getParameter("msg");
+ 	out.println("controller.jsp :" + msg);
+ 	List <String>  sbList = null;
 	try {
 		if (msg.contains("이번주")){ 
 			DateTest dateTest = new DateTest();
@@ -25,7 +28,15 @@
 			return;
 		}
 		if (msg.contains("경기")) {
-			out.println(new AnswerSchedule().answer(msg));
+			sbList=  new AnswerSchedule().answer(msg);
+			out.println(sbList.get(0));
+			/* for(int i=0; i<sbList.size();i++) {
+				out.println(sbList.get(i));
+			} */
+		}
+		
+		if (msg.contains("다음")) {
+			out.println(sbList.get(1));
 			return;
 		}
 	} catch (Exception e) {	

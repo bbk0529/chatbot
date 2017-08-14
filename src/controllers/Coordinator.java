@@ -23,10 +23,13 @@ public class Coordinator extends AbstractController{
 
 	@Override
 	public ModelAndView handleRequestInternal(HttpServletRequest request, HttpServletResponse response) {
+		ModelAndView mav = new ModelAndView();
 		String msg=request.getParameter("msg");
 		System.out.println("Coordinator / handleRequestInternal" + msg);
 		Map <String, String> map = new HashMap<> ();
-		return null;
+		mav.addObject("message",msg + " Treated in Coordinator");
+		mav.setViewName("/WEB-INF/views/chat.jsp");
+		return mav;
 		/*
 		if (msg.contains("이번주")){ 
 			DateTest dateTest = new DateTest();
